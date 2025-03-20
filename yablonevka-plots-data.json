@@ -1,11 +1,12 @@
 {
   "plot360": {
     "id": "plot360",
-    "title": "Участок 360",
+    "title": "Участок 630",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
-    "description": ""
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:630",
+    "privateComment": ""
   },
   "plot426": {
     "id": "plot426",
@@ -13,7 +14,8 @@
     "area": "6",
     "price": "300000",
     "status": "available",
-    "description": ""
+    "description": "Кадастровый номер 39:03:080916:426",
+    "privateComment": ""
   },
   "plot427": {
     "id": "plot427",
@@ -21,22 +23,124 @@
     "area": "6",
     "price": "300000",
     "status": "available",
-    "description": ""
+    "description": "",
+    "privateComment": ""
   },
   "plot592": {
     "id": "plot592",
     "title": "Участок 592",
     "area": "6",
     "price": "300000",
-    "status": "sold",
-    "description": ""
+    "status": "available",
+    "description": "",
+    "privateComment": ""
   },
   "plot634": {
     "id": "plot634",
     "title": "Участок 634",
     "area": "6",
     "price": "300000",
-    "status": "sold",
-    "description": ""
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:634",
+    "privateComment": ""
+  },
+  "plot405": {
+    "id": "plot405",
+    "title": "Участок 405",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:405",
+    "privateComment": ""
+  },
+  "plot633": {
+    "id": "plot633",
+    "title": "Участок 633",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:633",
+    "privateComment": ""
+  },
+  "plot632": {
+    "id": "plot632",
+    "title": "Участок 632",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:632",
+    "privateComment": ""
+  },
+  "plot631": {
+    "id": "plot631",
+    "title": "Участок 631",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:631",
+    "privateComment": ""
+  },
+  "plot578": {
+    "id": "plot578",
+    "title": "Участок 578",
+    "area": "6.63",
+    "price": "331500",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:578",
+    "privateComment": ""
+  },
+  "plot579": {
+    "id": "plot579",
+    "title": "Участок 579",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:579",
+    "privateComment": ""
+  },
+  "plot564": {
+    "id": "plot564",
+    "title": "Участок 564",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:564",
+    "privateComment": ""
+  },
+  "plot563": {
+    "id": "plot563",
+    "title": "Участок 563",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:563",
+    "privateComment": ""
+  },
+  "plot481": {
+    "id": "plot481",
+    "title": "Участок 481",
+    "area": "6.02",
+    "price": "303000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:481",
+    "privateComment": ""
+  },
+  "plot480": {
+    "id": "plot480",
+    "title": "Участок 480",
+    "area": "6.01",
+    "price": "303000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:480",
+    "privateComment": ""
+  },
+  "plot479": {
+    "id": "plot479",
+    "title": "Участок 479",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 39:03:080916:479",
+    "privateComment": ""
   }
 }
