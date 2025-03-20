@@ -1,0 +1,42 @@
+{
+  "plot360": {
+    "id": "plot360",
+    "title": "Участок 360",
+    "area": "6",
+    "price": "300000",
+    "status": "reserved",
+    "description": ""
+  },
+  "plot426": {
+    "id": "plot426",
+    "title": "Участок 426 ",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": ""
+  },
+  "plot427": {
+    "id": "plot427",
+    "title": "Участок 427",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": ""
+  },
+  "plot592": {
+    "id": "plot592",
+    "title": "Участок 592",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": ""
+  },
+  "plot634": {
+    "id": "plot634",
+    "title": "Участок 634",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": ""
+  }
+}
