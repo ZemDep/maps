@@ -1,0 +1,1811 @@
+{
+  "plot3872": {
+    "id": "plot3872",
+    "title": "Участок 3872",
+    "area": "9.3",
+    "price": "465000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3872",
+    "privateComment": ""
+  },
+  "plot3883": {
+    "id": "plot3883",
+    "title": "Участок 3883",
+    "area": "8",
+    "price": "320000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3883",
+    "privateComment": ""
+  },
+  "plot3945": {
+    "id": "plot3945",
+    "title": "Участок 3945",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3945",
+    "privateComment": ""
+  },
+  "plot3943": {
+    "id": "plot3943",
+    "title": "Участок 3943",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3943",
+    "privateComment": ""
+  },
+  "plot3944": {
+    "id": "plot3944",
+    "title": "Участок 3944",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3944",
+    "privateComment": ""
+  },
+  "plot3942": {
+    "id": "plot3942",
+    "title": "Участок 3942",
+    "area": "8",
+    "price": "320000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3942",
+    "privateComment": ""
+  },
+  "plot3941": {
+    "id": "plot3941",
+    "title": "Участок 3941",
+    "area": "8",
+    "price": "400000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3941",
+    "privateComment": ""
+  },
+  "plot3929": {
+    "id": "plot3929",
+    "title": "Участок 3929",
+    "area": "8",
+    "price": "320000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3929",
+    "privateComment": ""
+  },
+  "plot3925": {
+    "id": "plot3925",
+    "title": "Участок 3925",
+    "area": "867",
+    "price": "346800",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3925",
+    "privateComment": ""
+  },
+  "plot3926": {
+    "id": "plot3926",
+    "title": "Участок 3926",
+    "area": "8",
+    "price": "320000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3926",
+    "privateComment": ""
+  },
+  "plot3928": {
+    "id": "plot3928",
+    "title": "Участок 3928",
+    "area": "7.01",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3928",
+    "privateComment": ""
+  },
+  "plot3919": {
+    "id": "plot3919",
+    "title": "Участок 3919",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "КН 74:02:0512002:3919",
+    "privateComment": ""
+  },
+  "plot3920": {
+    "id": "plot3920",
+    "title": "Участок 3920",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3920",
+    "privateComment": ""
+  },
+  "plot3918": {
+    "id": "plot3918",
+    "title": "Участок 3918",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3918",
+    "privateComment": ""
+  },
+  "plot3905": {
+    "id": "plot3905",
+    "title": "Участок 3905",
+    "area": "6.1",
+    "price": "244000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3905",
+    "privateComment": ""
+  },
+  "plot3917": {
+    "id": "plot3917",
+    "title": "Участок 3917",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3917",
+    "privateComment": ""
+  },
+  "plot3947": {
+    "id": "plot3947",
+    "title": "Участок 3947",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3947",
+    "privateComment": ""
+  },
+  "plot3927": {
+    "id": "plot3927",
+    "title": "Участок 3927",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3927",
+    "privateComment": ""
+  },
+  "plot3948": {
+    "id": "plot3948",
+    "title": "Участок 3948",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3948",
+    "privateComment": ""
+  },
+  "plot3938": {
+    "id": "plot3938",
+    "title": "Участок 3938",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3938",
+    "privateComment": ""
+  },
+  "plot3873": {
+    "id": "plot3873",
+    "title": "Участок 3873",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3873",
+    "privateComment": ""
+  },
+  "plot3874": {
+    "id": "plot3874",
+    "title": "Участок 3874",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3874",
+    "privateComment": ""
+  },
+  "plot3875": {
+    "id": "plot3875",
+    "title": "Участок 3875",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3875",
+    "privateComment": ""
+  },
+  "plot3876": {
+    "id": "plot3876",
+    "title": "Участок 3876",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3876",
+    "privateComment": ""
+  },
+  "plot3877": {
+    "id": "plot3877",
+    "title": "Участок 3877",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3877",
+    "privateComment": ""
+  },
+  "plot3878": {
+    "id": "plot3878",
+    "title": "Участок 3878",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3878",
+    "privateComment": ""
+  },
+  "plot3908": {
+    "id": "plot3908",
+    "title": "Участок 3908",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3908",
+    "privateComment": ""
+  },
+  "plot3903": {
+    "id": "plot3903",
+    "title": "Участок 3903",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3903",
+    "privateComment": ""
+  },
+  "plot3906": {
+    "id": "plot3906",
+    "title": "Участок 3906",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3906",
+    "privateComment": ""
+  },
+  "plot3907": {
+    "id": "plot3907",
+    "title": "Участок 3907",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3907",
+    "privateComment": ""
+  },
+  "plot3904": {
+    "id": "plot3904",
+    "title": "Участок 3904",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3904",
+    "privateComment": ""
+  },
+  "plot3881": {
+    "id": "plot3881",
+    "title": "Участок 3881",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3881",
+    "privateComment": "инв"
+  },
+  "plot3882": {
+    "id": "plot3882",
+    "title": "Участок 3882",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3882",
+    "privateComment": "инв"
+  },
+  "plot3956": {
+    "id": "plot3956",
+    "title": "Участок 3956",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "",
+    "privateComment": ""
+  },
+  "plot3957": {
+    "id": "plot3957",
+    "title": "Участок 3957",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3957",
+    "privateComment": ""
+  },
+  "plot5156": {
+    "id": "plot5156",
+    "title": "Участок 5156",
+    "area": "8",
+    "price": "400000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5156",
+    "privateComment": "уч ЗемДеп"
+  },
+  "plot5157": {
+    "id": "plot5157",
+    "title": "Участок 5157",
+    "area": "8",
+    "price": "400000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5157",
+    "privateComment": "уч ЗемДеп"
+  },
+  "plot5155": {
+    "id": "plot5155",
+    "title": "Участок 5155",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5155",
+    "privateComment": "уч ЗемДеп (А)"
+  },
+  "plot14568": {
+    "id": "plot14568",
+    "title": "Участок 14568",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14568",
+    "privateComment": "инв"
+  },
+  "plot5164": {
+    "id": "plot5164",
+    "title": "Участок 5164",
+    "area": "6.27",
+    "price": "313500",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5164",
+    "privateComment": "уч ЗемДеп (А)"
+  },
+  "plot5163": {
+    "id": "plot5163",
+    "title": "Участок 5163",
+    "area": "7",
+    "price": "400000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0000000:5163",
+    "privateComment": "инв"
+  },
+  "plot5162": {
+    "id": "plot5162",
+    "title": "Участок 5162",
+    "area": "7",
+    "price": "400000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0000000:5162",
+    "privateComment": "инв"
+  },
+  "plot5161": {
+    "id": "plot5161",
+    "title": "Участок 5161",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5161",
+    "privateComment": ""
+  },
+  "plot5160": {
+    "id": "plot5160",
+    "title": "Участок 5160",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5160",
+    "privateComment": ""
+  },
+  "plot5159": {
+    "id": "plot5159",
+    "title": "Участок 5159",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0000000:5159",
+    "privateComment": ""
+  },
+  "plot5158": {
+    "id": "plot5158",
+    "title": "Участок 5158",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0000000:5158",
+    "privateComment": "инв"
+  },
+  "plot14566": {
+    "id": "plot14566",
+    "title": "Участок 14566",
+    "area": "6",
+    "price": "400000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14566",
+    "privateComment": "инв"
+  },
+  "plot14565": {
+    "id": "plot14565",
+    "title": "Участок 14565",
+    "area": "6",
+    "price": "400000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14565",
+    "privateComment": "инв"
+  },
+  "plot14564": {
+    "id": "plot14564",
+    "title": "Участок 14564",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14564",
+    "privateComment": ""
+  },
+  "plot3916": {
+    "id": "plot3916",
+    "title": "Участок 3916",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3916",
+    "privateComment": "инв"
+  },
+  "plot3894": {
+    "id": "plot3894",
+    "title": "Участок 3894",
+    "area": "5.42",
+    "price": "325200",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3894",
+    "privateComment": "инв"
+  },
+  "plot3910": {
+    "id": "plot3910",
+    "title": "Участок 3910",
+    "area": "6",
+    "price": "300000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3910",
+    "privateComment": "инв"
+  },
+  "plot3911": {
+    "id": "plot3911",
+    "title": "Участок 3911",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3911",
+    "privateComment": "инв"
+  },
+  "plot3912": {
+    "id": "plot3912",
+    "title": "Участок 3912",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3912",
+    "privateComment": "инв"
+  },
+  "plot3913": {
+    "id": "plot3913",
+    "title": "Участок 3913",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3913",
+    "privateComment": "инв"
+  },
+  "plot3914": {
+    "id": "plot3914",
+    "title": "Участок 3914",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3914",
+    "privateComment": "инв"
+  },
+  "plot3915": {
+    "id": "plot3915",
+    "title": "Участок 3915",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3915",
+    "privateComment": ""
+  },
+  "plot3921": {
+    "id": "plot3921",
+    "title": "Участок 3921",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3921",
+    "privateComment": "инв"
+  },
+  "plot3922": {
+    "id": "plot3922",
+    "title": "Участок 3922",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3922",
+    "privateComment": "инв"
+  },
+  "plot3923": {
+    "id": "plot3923",
+    "title": "Участок 3923",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3923",
+    "privateComment": "инв"
+  },
+  "plot3924": {
+    "id": "plot3924",
+    "title": "Участок 3924",
+    "area": "6.04",
+    "price": "370000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0512002:3924",
+    "privateComment": "инв"
+  },
+  "plot14569": {
+    "id": "plot14569",
+    "title": "Участок 14569",
+    "area": "7.53",
+    "price": "376500",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14569",
+    "privateComment": ""
+  },
+  "plot14543": {
+    "id": "plot14543",
+    "title": "Участок 14543",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14543",
+    "privateComment": ""
+  },
+  "plot14542": {
+    "id": "plot14542",
+    "title": "Участок 14542",
+    "area": "6.36",
+    "price": "318000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14542",
+    "privateComment": ""
+  },
+  "plot14541": {
+    "id": "plot14541",
+    "title": "Участок 14541",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14541",
+    "privateComment": ""
+  },
+  "plot14562": {
+    "id": "plot14562",
+    "title": "Участок 14562",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14562",
+    "privateComment": ""
+  },
+  "plot14561": {
+    "id": "plot14561",
+    "title": "Участок 14561",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14561",
+    "privateComment": ""
+  },
+  "plot14560": {
+    "id": "plot14560",
+    "title": "Участок 14560",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14560",
+    "privateComment": ""
+  },
+  "plot14540": {
+    "id": "plot14540",
+    "title": "Участок 14540",
+    "area": "8",
+    "price": "400000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14540",
+    "privateComment": ""
+  },
+  "plot14537": {
+    "id": "plot14537",
+    "title": "Участок 14537",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14537",
+    "privateComment": ""
+  },
+  "plot14536": {
+    "id": "plot14536",
+    "title": "Участок 14536",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14536",
+    "privateComment": ""
+  },
+  "plot14558": {
+    "id": "plot14558",
+    "title": "Участок 14558",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14558",
+    "privateComment": ""
+  },
+  "plot14535": {
+    "id": "plot14535",
+    "title": "Участок 14535",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14535",
+    "privateComment": ""
+  },
+  "plot14534": {
+    "id": "plot14534",
+    "title": "Участок 14534",
+    "area": "7.43",
+    "price": "445800",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14534",
+    "privateComment": ""
+  },
+  "plot14533": {
+    "id": "plot14533",
+    "title": "Участок 14533",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14533",
+    "privateComment": ""
+  },
+  "plot14532": {
+    "id": "plot14532",
+    "title": "Участок 14532",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14532",
+    "privateComment": ""
+  },
+  "plot14531": {
+    "id": "plot14531",
+    "title": "Участок 14531",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14531",
+    "privateComment": ""
+  },
+  "plot14530": {
+    "id": "plot14530",
+    "title": "Участок 14530",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14530",
+    "privateComment": ""
+  },
+  "plot14529": {
+    "id": "plot14529",
+    "title": "Участок 14529",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14529",
+    "privateComment": ""
+  },
+  "plot14528": {
+    "id": "plot14528",
+    "title": "Участок 14528",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14528",
+    "privateComment": ""
+  },
+  "plot14526": {
+    "id": "plot14526",
+    "title": "Участок 14526",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14526",
+    "privateComment": ""
+  },
+  "plat14525": {
+    "id": "plat14525",
+    "title": "Участок 14525",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14525",
+    "privateComment": ""
+  },
+  "plot14521": {
+    "id": "plot14521",
+    "title": "Участок 14521",
+    "area": "6.91",
+    "price": "345500",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14521",
+    "privateComment": ""
+  },
+  "plot14522": {
+    "id": "plot14522",
+    "title": "Участок 14522",
+    "area": "7.13",
+    "price": "356500",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14522",
+    "privateComment": ""
+  },
+  "plot14520": {
+    "id": "plot14520",
+    "title": "14520",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14520",
+    "privateComment": "инв"
+  },
+  "plot14523": {
+    "id": "plot14523",
+    "title": "",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14523",
+    "privateComment": "инв"
+  },
+  "plot14519": {
+    "id": "plot14519",
+    "title": "",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14519",
+    "privateComment": "инв"
+  },
+  "plot14524": {
+    "id": "plot14524",
+    "title": "",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14524",
+    "privateComment": "инв"
+  },
+  "plot14517": {
+    "id": "plot14517",
+    "title": "Участок 14517",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14517",
+    "privateComment": ""
+  },
+  "plot14518": {
+    "id": "plot14518",
+    "title": "Участок 14518",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14518",
+    "privateComment": ""
+  },
+  "plot14512": {
+    "id": "plot14512",
+    "title": "Участок 14512",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14512",
+    "privateComment": ""
+  },
+  "plot14513": {
+    "id": "plot14513",
+    "title": "Участок 14513",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14513",
+    "privateComment": ""
+  },
+  "plot14511": {
+    "id": "plot14511",
+    "title": "Участок 14511",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "КН 74:02:0511002:14511",
+    "privateComment": ""
+  },
+  "plot14509": {
+    "id": "plot14509",
+    "title": "Участок 14509",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "КН 74:02:0511002:14509",
+    "privateComment": ""
+  },
+  "plot14507": {
+    "id": "plot14507",
+    "title": "Участок 14507",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "КН 74:02:0511002:14507",
+    "privateComment": ""
+  },
+  "plot14447": {
+    "id": "plot14447",
+    "title": "Участок 14447",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "КН 74:02:0511002:14447",
+    "privateComment": ""
+  },
+  "plot14593": {
+    "id": "plot14593",
+    "title": "Участок 14593",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14593",
+    "privateComment": ""
+  },
+  "plot14594": {
+    "id": "plot14594",
+    "title": "Участок 14594",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14594",
+    "privateComment": ""
+  },
+  "plot14432": {
+    "id": "plot14432",
+    "title": "Участок 14432",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14432",
+    "privateComment": ""
+  },
+  "plot14448": {
+    "id": "plot14448",
+    "title": "Участок 14448",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14448",
+    "privateComment": ""
+  },
+  "plot14590": {
+    "id": "plot14590",
+    "title": "Участок 14590",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14590",
+    "privateComment": ""
+  },
+  "plot14591": {
+    "id": "plot14591",
+    "title": "Участок 14591",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14591",
+    "privateComment": ""
+  },
+  "plot14592": {
+    "id": "plot14592",
+    "title": "Участок 14592",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14592",
+    "privateComment": ""
+  },
+  "plot14583": {
+    "id": "plot14583",
+    "title": "Участок 14583",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14583",
+    "privateComment": ""
+  },
+  "plot14582": {
+    "id": "plot14582",
+    "title": "Участок 14582",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14582",
+    "privateComment": ""
+  },
+  "plot14587": {
+    "id": "plot14587",
+    "title": "Участок 14587",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14587",
+    "privateComment": ""
+  },
+  "plot14581": {
+    "id": "plot14581",
+    "title": "Участок 14581",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14581",
+    "privateComment": ""
+  },
+  "plot14586": {
+    "id": "plot14586",
+    "title": "Участок 14586",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14586",
+    "privateComment": ""
+  },
+  "plot14580": {
+    "id": "plot14580",
+    "title": "Участок 14580",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14580",
+    "privateComment": ""
+  },
+  "plot14585": {
+    "id": "plot14585",
+    "title": "Участок 14585",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14585",
+    "privateComment": ""
+  },
+  "plot14577": {
+    "id": "plot14577",
+    "title": "Участок 14577",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14577",
+    "privateComment": ""
+  },
+  "plot14579": {
+    "id": "plot14579",
+    "title": "Участок 14579",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14579",
+    "privateComment": ""
+  },
+  "plot14538": {
+    "id": "plot14538",
+    "title": "Участок 14538",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14538",
+    "privateComment": ""
+  },
+  "plot14475": {
+    "id": "plot14475",
+    "title": "Участок 14475",
+    "area": "6.11",
+    "price": "366600",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14475",
+    "privateComment": ""
+  },
+  "plot14476": {
+    "id": "plot14476",
+    "title": "Участок 14476",
+    "area": "6.33",
+    "price": "379800",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14476",
+    "privateComment": ""
+  },
+  "plot14473": {
+    "id": "plot14473",
+    "title": "Участок 14473",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14473",
+    "privateComment": ""
+  },
+  "plot14474": {
+    "id": "plot14474",
+    "title": "Участок 14474",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14474",
+    "privateComment": ""
+  },
+  "plot14470": {
+    "id": "plot14470",
+    "title": "Участок 14470",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14470",
+    "privateComment": ""
+  },
+  "plot14471": {
+    "id": "plot14471",
+    "title": "Участок 14471",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14471",
+    "privateComment": ""
+  },
+  "plot14468": {
+    "id": "plot14468",
+    "title": "Участок 14468",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14468",
+    "privateComment": ""
+  },
+  "plot14469": {
+    "id": "plot14469",
+    "title": "Участок 14469",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14469",
+    "privateComment": ""
+  },
+  "plot14466": {
+    "id": "plot14466",
+    "title": "Участок 14466",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14466",
+    "privateComment": ""
+  },
+  "plot14467": {
+    "id": "plot14467",
+    "title": "Участок 14467",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14467",
+    "privateComment": ""
+  },
+  "plot14464": {
+    "id": "plot14464",
+    "title": "Участок 14464",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14464",
+    "privateComment": ""
+  },
+  "plot14465": {
+    "id": "plot14465",
+    "title": "Участок 14465",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14465",
+    "privateComment": ""
+  },
+  "plot14462": {
+    "id": "plot14462",
+    "title": "Участок 14462",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14462",
+    "privateComment": ""
+  },
+  "plot14463": {
+    "id": "plot14463",
+    "title": "Участок 14463",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14463",
+    "privateComment": ""
+  },
+  "plot14459": {
+    "id": "plot14459",
+    "title": "Участок 14459",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14459",
+    "privateComment": ""
+  },
+  "plot14460": {
+    "id": "plot14460",
+    "title": "Участок 14460",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14460",
+    "privateComment": ""
+  },
+  "plot14457": {
+    "id": "plot14457",
+    "title": "Участок 14457",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14457",
+    "privateComment": ""
+  },
+  "plot14453": {
+    "id": "plot14453",
+    "title": "Участок 14453",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14453",
+    "privateComment": ""
+  },
+  "plot14454": {
+    "id": "plot14454",
+    "title": "Участок 14454",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14454",
+    "privateComment": ""
+  },
+  "plot14449": {
+    "id": "plot14449",
+    "title": "Участок 14449",
+    "area": "7",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14449",
+    "privateComment": ""
+  },
+  "plot14451": {
+    "id": "plot14451",
+    "title": "Участок 14451",
+    "area": "7",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14451",
+    "privateComment": ""
+  },
+  "plot14452": {
+    "id": "plot14452",
+    "title": "Участок 14452",
+    "area": "7",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14452",
+    "privateComment": ""
+  },
+  "plot14321": {
+    "id": "plot14321",
+    "title": "Участок 14321",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14321",
+    "privateComment": ""
+  },
+  "plot14335": {
+    "id": "plot14335",
+    "title": "Участок 14335",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14335",
+    "privateComment": ""
+  },
+  "plot14322": {
+    "id": "plot14322",
+    "title": "Участок 14322",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14322",
+    "privateComment": ""
+  },
+  "plot14334": {
+    "id": "plot14334",
+    "title": "Участок 14334",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14334",
+    "privateComment": ""
+  },
+  "plot14323": {
+    "id": "plot14323",
+    "title": "Участок 14323",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14323",
+    "privateComment": ""
+  },
+  "plot14333": {
+    "id": "plot14333",
+    "title": "Участок 14333",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14333",
+    "privateComment": ""
+  },
+  "plot14324": {
+    "id": "plot14324",
+    "title": "Участок 14324",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14324",
+    "privateComment": ""
+  },
+  "plot14332": {
+    "id": "plot14332",
+    "title": "Участок 14332",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14332",
+    "privateComment": ""
+  },
+  "plot14325": {
+    "id": "plot14325",
+    "title": "Участок 14325",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14325",
+    "privateComment": ""
+  },
+  "plot14331": {
+    "id": "plot14331",
+    "title": "Участок 14331",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14331",
+    "privateComment": ""
+  },
+  "plot14326": {
+    "id": "plot14326",
+    "title": "Участок 14326",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14326",
+    "privateComment": ""
+  },
+  "plot14330": {
+    "id": "plot14330",
+    "title": "Участок 14330",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14330",
+    "privateComment": ""
+  },
+  "plot14327": {
+    "id": "plot14327",
+    "title": "Участок 14327",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14327",
+    "privateComment": ""
+  },
+  "plot14328": {
+    "id": "plot14328",
+    "title": "Участок 14328",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14328",
+    "privateComment": ""
+  },
+  "plot14539": {
+    "id": "plot14539",
+    "title": "Участок 14539",
+    "area": "1039",
+    "price": "519500",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14539",
+    "privateComment": ""
+  },
+  "plot14567": {
+    "id": "plot14567",
+    "title": "Участок 14567",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14567",
+    "privateComment": ""
+  },
+  "plot14336": {
+    "id": "plot14336",
+    "title": "Участок 14336",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14336",
+    "privateComment": ""
+  },
+  "plot14578": {
+    "id": "plot14578",
+    "title": "Участок 14578",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14578",
+    "privateComment": ""
+  },
+  "plot14337": {
+    "id": "plot14337",
+    "title": "Участок 14337",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14337",
+    "privateComment": ""
+  },
+  "plot14589": {
+    "id": "plot14589",
+    "title": "Участок 14589",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14589",
+    "privateComment": ""
+  },
+  "plot14338": {
+    "id": "plot14338",
+    "title": "Участок 14338",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14338",
+    "privateComment": ""
+  },
+  "plot14600": {
+    "id": "plot14600",
+    "title": "Участок 14600",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14600",
+    "privateComment": ""
+  },
+  "plot14339": {
+    "id": "plot14339",
+    "title": "Участок 14339",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14339",
+    "privateComment": ""
+  },
+  "plot14318": {
+    "id": "plot14318",
+    "title": "Участок 14318",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14318",
+    "privateComment": ""
+  },
+  "plot14341": {
+    "id": "plot14341",
+    "title": "Участок 14341",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14341",
+    "privateComment": ""
+  },
+  "plot14329": {
+    "id": "plot14329",
+    "title": "Участок 14329",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14329",
+    "privateComment": ""
+  },
+  "plot14342": {
+    "id": "plot14342",
+    "title": "Участок 14342",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14342",
+    "privateComment": ""
+  },
+  "plot14317": {
+    "id": "plot14317",
+    "title": "Участок 14317",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14317",
+    "privateComment": ""
+  },
+  "plot14340": {
+    "id": "plot14340",
+    "title": "Участок 14340",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14340",
+    "privateComment": ""
+  },
+  "plot14351": {
+    "id": "plot14351",
+    "title": "Участок 14351",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14351",
+    "privateComment": ""
+  },
+  "plot14362": {
+    "id": "plot14362",
+    "title": "Участок 14362",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14362",
+    "privateComment": ""
+  },
+  "plot14445": {
+    "id": "plot14445",
+    "title": "Участок 14445",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14445",
+    "privateComment": ""
+  },
+  "plot14446": {
+    "id": "plot14446",
+    "title": "Участок 14446",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14446",
+    "privateComment": ""
+  },
+  "plot14373": {
+    "id": "plot14373",
+    "title": "Участок 14373",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14373",
+    "privateComment": ""
+  },
+  "plot14438": {
+    "id": "plot14438",
+    "title": "Участок 14438",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14438",
+    "privateComment": ""
+  },
+  "plot14346": {
+    "id": "plot14346",
+    "title": "Участок 14346",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14346",
+    "privateComment": ""
+  },
+  "plot14399": {
+    "id": "plot14399",
+    "title": "Участок 14399",
+    "area": "6",
+    "price": "500000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14399",
+    "privateComment": "инв"
+  },
+  "plot14400": {
+    "id": "plot14400",
+    "title": "Участок 14400",
+    "area": "6",
+    "price": "500000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14400",
+    "privateComment": "инв"
+  },
+  "plot14397": {
+    "id": "plot14397",
+    "title": "Участок 14397",
+    "area": "6",
+    "price": "500000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14397",
+    "privateComment": "инв"
+  },
+  "plot14398": {
+    "id": "plot14398",
+    "title": "Участок 14398",
+    "area": "6",
+    "price": "500000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14398",
+    "privateComment": "инв"
+  },
+  "plot14394": {
+    "id": "plot14394",
+    "title": "Участок 14394",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14394",
+    "privateComment": ""
+  },
+  "plot14396": {
+    "id": "plot14396",
+    "title": "Участок 14396",
+    "area": "6",
+    "price": "500000",
+    "status": "sold",
+    "description": "Кадастровый номер 74:02:0511002:14396",
+    "privateComment": "инв"
+  },
+  "plot14393": {
+    "id": "plot14393",
+    "title": "Участок 14393",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14393",
+    "privateComment": ""
+  },
+  "plot14392": {
+    "id": "plot14392",
+    "title": "Участок 14392",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14392",
+    "privateComment": ""
+  },
+  "plot14390": {
+    "id": "plot14390",
+    "title": "Участок 14390",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14390",
+    "privateComment": ""
+  },
+  "plot14391": {
+    "id": "plot14391",
+    "title": "Участок 14391",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14391",
+    "privateComment": ""
+  },
+  "plot14389": {
+    "id": "plot14389",
+    "title": "Участок 14389",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14389",
+    "privateComment": ""
+  },
+  "plot14388": {
+    "id": "plot14388",
+    "title": "Участок 14388",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14388",
+    "privateComment": ""
+  },
+  "plot14386": {
+    "id": "plot14386",
+    "title": "Участок 14386",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14386",
+    "privateComment": ""
+  },
+  "plot14387": {
+    "id": "plot14387",
+    "title": "Участок 4387",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер\n74:02:0511002:14387",
+    "privateComment": ""
+  },
+  "plot14385": {
+    "id": "plot14385",
+    "title": "Участок 14385",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14385",
+    "privateComment": ""
+  },
+  "plot14383": {
+    "id": "plot14383",
+    "title": "Участок 14383",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14383",
+    "privateComment": ""
+  },
+  "plot14382": {
+    "id": "plot14382",
+    "title": "Участок 14382",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14382",
+    "privateComment": ""
+  },
+  "plot14441": {
+    "id": "plot14441",
+    "title": "Участок 14441",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14441",
+    "privateComment": ""
+  },
+  "plot14442": {
+    "id": "plot14442",
+    "title": "Участок 14442",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14442",
+    "privateComment": ""
+  },
+  "plot14380": {
+    "id": "plot14380",
+    "title": "Участок 14380",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14380",
+    "privateComment": ""
+  },
+  "plot14434": {
+    "id": "plot14434",
+    "title": "Участок 14434",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14434",
+    "privateComment": ""
+  },
+  "plot14379": {
+    "id": "plot14379",
+    "title": "Участок 14379",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14379",
+    "privateComment": ""
+  },
+  "plot14424": {
+    "id": "plot14424",
+    "title": "Участок 14424",
+    "area": "7",
+    "price": "490000",
+    "status": "reserved",
+    "description": "Кадастровый номер 74:02:0511002:14424",
+    "privateComment": ""
+  },
+  "plot14423": {
+    "id": "plot14423",
+    "title": "Участок 14423",
+    "area": "7",
+    "price": "490000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14423",
+    "privateComment": ""
+  },
+  "plot14420": {
+    "id": "plot14420",
+    "title": "Участок 14420",
+    "area": "6.01",
+    "price": "420700",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14420",
+    "privateComment": ""
+  },
+  "plot14419": {
+    "id": "plot14419",
+    "title": "Участок 14419",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14419",
+    "privateComment": ""
+  },
+  "plot14418": {
+    "id": "plot14418",
+    "title": "Участок 14418",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14418",
+    "privateComment": ""
+  },
+  "plot14416": {
+    "id": "plot14416",
+    "title": "Участок 14416",
+    "area": "6",
+    "price": "420000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14416",
+    "privateComment": ""
+  },
+  "plot14494": {
+    "id": "plot14494",
+    "title": "Участок 14494",
+    "area": "51",
+    "price": "3000000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14494",
+    "privateComment": ""
+  },
+  "plot14483": {
+    "id": "plot14483",
+    "title": "Участок 14483",
+    "area": "5662",
+    "price": "3600000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0511002:14483",
+    "privateComment": ""
+  }
+}
