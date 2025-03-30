@@ -886,18 +886,18 @@
     "title": "Участок 14432",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14432",
-    "privateComment": ""
+    "privateComment": "Владислав"
   },
   "plot14448": {
     "id": "plot14448",
     "title": "Участок 14448",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14448",
-    "privateComment": ""
+    "privateComment": "Владислав"
   },
   "plot14590": {
     "id": "plot14590",
@@ -940,9 +940,9 @@
     "title": "Участок 14582",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14582",
-    "privateComment": ""
+    "privateComment": "клиент Ирины"
   },
   "plot14587": {
     "id": "plot14587",
@@ -958,9 +958,9 @@
     "title": "Участок 14581",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14581",
-    "privateComment": ""
+    "privateComment": "клиент Ирины"
   },
   "plot14586": {
     "id": "plot14586",
