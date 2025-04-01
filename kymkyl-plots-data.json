@@ -1807,5 +1807,716 @@
     "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14483",
     "privateComment": ""
+  },
+  "ploti14409": {
+    "id": "ploti14409",
+    "title": "Участок 14409",
+    "area": "6",
+    "price": "360000",
+    "status": "sold",
+    "description": "Земельный участок: 74:02:0511002:14409",
+    "privateComment": ""
+  },
+  "ploti14408": {
+    "id": "ploti14408",
+    "title": "Участок 14408",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14408",
+    "privateComment": ""
+  },
+  "ploti14401": {
+    "id": "ploti14401",
+    "title": "Участок 14401",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14401",
+    "privateComment": ""
+  },
+  "ploti14410": {
+    "id": "ploti14410",
+    "title": "Участок 14410",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14410",
+    "privateComment": ""
+  },
+  "ploti14403": {
+    "id": "ploti14403",
+    "title": "Участок 14403",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14403",
+    "privateComment": ""
+  },
+  "ploti14411": {
+    "id": "ploti14411",
+    "title": "Участок 14411",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14411",
+    "privateComment": ""
+  },
+  "ploti14412": {
+    "id": "ploti14412",
+    "title": "Участок 14412",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14412",
+    "privateComment": ""
+  },
+  "ploti14405": {
+    "id": "ploti14405",
+    "title": "Участок 14405",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14405",
+    "privateComment": ""
+  },
+  "ploti14413": {
+    "id": "ploti14413",
+    "title": "Участок 14413",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14413",
+    "privateComment": ""
+  },
+  "ploti14407": {
+    "id": "ploti14407",
+    "title": "Участок 14407",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14407",
+    "privateComment": ""
+  },
+  "ploti14433": {
+    "id": "ploti14433",
+    "title": "Участок 14433",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14433",
+    "privateComment": ""
+  },
+  "ploti14431": {
+    "id": "ploti14431",
+    "title": "Участок 14431",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "",
+    "privateComment": ""
+  },
+  "ploti14378": {
+    "id": "ploti14378",
+    "title": "Участок 14378",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14378",
+    "privateComment": ""
+  },
+  "ploti14377": {
+    "id": "ploti14377",
+    "title": "Участок 14377",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14377",
+    "privateComment": ""
+  },
+  "ploti14376": {
+    "id": "ploti14376",
+    "title": "Участок 14376",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14376",
+    "privateComment": ""
+  },
+  "ploti14375": {
+    "id": "ploti14375",
+    "title": "Участок 14375",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14375",
+    "privateComment": ""
+  },
+  "ploti14439": {
+    "id": "ploti14439",
+    "title": "Участок 14439",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14439",
+    "privateComment": ""
+  },
+  "ploti14374": {
+    "id": "ploti14374",
+    "title": "Участок 14374",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14374",
+    "privateComment": ""
+  },
+  "ploti14429": {
+    "id": "ploti14429",
+    "title": "Участок 14429",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14429",
+    "privateComment": ""
+  },
+  "ploti14372": {
+    "id": "ploti14372",
+    "title": "Участок 14372",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14372",
+    "privateComment": ""
+  },
+  "ploti14417": {
+    "id": "ploti14417",
+    "title": "Участок 14417",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14417",
+    "privateComment": ""
+  },
+  "ploti14371": {
+    "id": "ploti14371",
+    "title": "Участок 14371",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14371",
+    "privateComment": ""
+  },
+  "ploti14406": {
+    "id": "ploti14406",
+    "title": "Участок 14406",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14406",
+    "privateComment": ""
+  },
+  "ploti14563": {
+    "id": "ploti14563",
+    "title": "Участок 14563",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14563",
+    "privateComment": ""
+  },
+  "ploti14554": {
+    "id": "ploti14554",
+    "title": "Участок 14554",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14554",
+    "privateComment": ""
+  },
+  "ploti14395": {
+    "id": "ploti14395",
+    "title": "Участок 14395",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14395",
+    "privateComment": ""
+  },
+  "ploti14370": {
+    "id": "ploti14370",
+    "title": "Участок 14370",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14370",
+    "privateComment": ""
+  },
+  "ploti14443": {
+    "id": "ploti14443",
+    "title": "Участок 14443",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14443",
+    "privateComment": ""
+  },
+  "ploti14384": {
+    "id": "ploti14384",
+    "title": "Участок 14384",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14384",
+    "privateComment": ""
+  },
+  "ploti14369": {
+    "id": "ploti14369",
+    "title": "Участок 14369",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14369",
+    "privateComment": ""
+  },
+  "ploti14555": {
+    "id": "ploti14555",
+    "title": "Участок 14555",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14555",
+    "privateComment": ""
+  },
+  "ploti14549": {
+    "id": "ploti14549",
+    "title": "Участок 14549",
+    "area": "8",
+    "price": "400000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14549",
+    "privateComment": ""
+  },
+  "ploti14552": {
+    "id": "ploti14552",
+    "title": "Участок 14552",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14552",
+    "privateComment": ""
+  },
+  "ploti14548": {
+    "id": "ploti14548",
+    "title": "Участок 14548",
+    "area": "7.48",
+    "price": "374000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14548",
+    "privateComment": ""
+  },
+  "ploti14596": {
+    "id": "ploti14596",
+    "title": "Участок 14596",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14596",
+    "privateComment": ""
+  },
+  "ploti14597": {
+    "id": "ploti14597",
+    "title": "Участок 14597",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14597",
+    "privateComment": ""
+  },
+  "ploti14605": {
+    "id": "ploti14605",
+    "title": "Участок 14605",
+    "area": "6",
+    "price": "360000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14605",
+    "privateComment": ""
+  },
+  "ploti14606": {
+    "id": "ploti14606",
+    "title": "Участок 14606",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14606",
+    "privateComment": ""
+  },
+  "ploti14598": {
+    "id": "ploti14598",
+    "title": "Участок 14598",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14598",
+    "privateComment": ""
+  },
+  "ploti14607": {
+    "id": "ploti14607",
+    "title": "Участок 14607",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14607",
+    "privateComment": ""
+  },
+  "ploti14599": {
+    "id": "ploti14599",
+    "title": "Участок 14599",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14599",
+    "privateComment": ""
+  },
+  "ploti14608": {
+    "id": "ploti14608",
+    "title": "Участок 14608",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14608",
+    "privateComment": ""
+  },
+  "ploti14601": {
+    "id": "ploti14601",
+    "title": "Участок 14601",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14601",
+    "privateComment": ""
+  },
+  "ploti14609": {
+    "id": "ploti14609",
+    "title": "Участок 14609",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14609",
+    "privateComment": ""
+  },
+  "ploti14602": {
+    "id": "ploti14602",
+    "title": "Участок 14602",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14602",
+    "privateComment": ""
+  },
+  "ploti14610": {
+    "id": "ploti14610",
+    "title": "Участок 14610",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14610",
+    "privateComment": ""
+  },
+  "ploti14320": {
+    "id": "ploti14320",
+    "title": "Участок 14320",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14320",
+    "privateComment": ""
+  },
+  "ploti14319": {
+    "id": "ploti14319",
+    "title": "Участок 14319",
+    "area": "6.37",
+    "price": "318500",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14319",
+    "privateComment": ""
+  },
+  "ploti14527": {
+    "id": "ploti14527",
+    "title": "Участок 14527",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14527",
+    "privateComment": ""
+  },
+  "ploti14502": {
+    "id": "ploti14502",
+    "title": "Участок 14502",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14502",
+    "privateComment": ""
+  },
+  "ploti14500": {
+    "id": "ploti14500",
+    "title": "Участок 14500",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14500",
+    "privateComment": ""
+  },
+  "ploti14498": {
+    "id": "ploti14498",
+    "title": "Участок 14498",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14498",
+    "privateComment": ""
+  },
+  "ploti14496": {
+    "id": "ploti14496",
+    "title": "Участок 14496",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14496",
+    "privateComment": ""
+  },
+  "ploti14495": {
+    "id": "ploti14495",
+    "title": "Участок 14495",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14495",
+    "privateComment": ""
+  },
+  "ploti14493": {
+    "id": "ploti14493",
+    "title": "Участок 14493",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14493",
+    "privateComment": ""
+  },
+  "ploti14492": {
+    "id": "ploti14492",
+    "title": "Участок 14492",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14492",
+    "privateComment": ""
+  },
+  "ploti14491": {
+    "id": "ploti14491",
+    "title": "Участок 14491",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14491",
+    "privateComment": ""
+  },
+  "ploti14490": {
+    "id": "ploti14490",
+    "title": "Участок 14490",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14490",
+    "privateComment": ""
+  },
+  "ploti14489": {
+    "id": "ploti14489",
+    "title": "Участок 14489",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14489",
+    "privateComment": ""
+  },
+  "ploti14486": {
+    "id": "ploti14486",
+    "title": "Участок 14486",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14486",
+    "privateComment": ""
+  },
+  "ploti14487": {
+    "id": "ploti14487",
+    "title": "Участок 14487",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14487",
+    "privateComment": ""
+  },
+  "ploti14485": {
+    "id": "ploti14485",
+    "title": "Участок 14485",
+    "area": "6",
+    "price": "300000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14485",
+    "privateComment": ""
+  },
+  "ploti14575": {
+    "id": "ploti14575",
+    "title": "Участок 14575",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14575",
+    "privateComment": ""
+  },
+  "ploti14576": {
+    "id": "ploti14576",
+    "title": "Участок 14576",
+    "area": "666",
+    "price": "333000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14576",
+    "privateComment": ""
+  },
+  "ploti14574": {
+    "id": "ploti14574",
+    "title": "Участок 14574",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14574",
+    "privateComment": ""
+  },
+  "ploti14571": {
+    "id": "ploti14571",
+    "title": "Участок 14571",
+    "area": "7",
+    "price": "350000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14571",
+    "privateComment": ""
+  },
+  "ploti14557": {
+    "id": "ploti14557",
+    "title": "Участок 14557",
+    "area": "7.76",
+    "price": "388000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14557",
+    "privateComment": ""
+  },
+  "ploti3934": {
+    "id": "ploti3934",
+    "title": "Участок 3934",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3934",
+    "privateComment": ""
+  },
+  "ploti3933": {
+    "id": "ploti3933",
+    "title": "Участок 3933",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3933",
+    "privateComment": ""
+  },
+  "ploti3932": {
+    "id": "ploti3932",
+    "title": "Участок 3932",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3932",
+    "privateComment": ""
+  },
+  "ploti3931": {
+    "id": "ploti3931",
+    "title": "Участок 3931",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3931",
+    "privateComment": ""
+  },
+  "ploti3930": {
+    "id": "ploti3930",
+    "title": "Участок 3930",
+    "area": "6.68",
+    "price": "334000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3930",
+    "privateComment": ""
+  },
+  "ploti3897": {
+    "id": "ploti3897",
+    "title": "Участок 3897",
+    "area": "7",
+    "price": "280000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3897",
+    "privateComment": ""
+  },
+  "ploti3896": {
+    "id": "ploti3896",
+    "title": "Участок 3896",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3896",
+    "privateComment": ""
+  },
+  "ploti3895": {
+    "id": "ploti3895",
+    "title": "Участок 3895",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3895",
+    "privateComment": ""
+  },
+  "ploti3893": {
+    "id": "ploti3893",
+    "title": "Участок 3893",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3893",
+    "privateComment": ""
+  },
+  "ploti3892": {
+    "id": "ploti3892",
+    "title": "Участок 3892",
+    "area": "6",
+    "price": "240000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3892",
+    "privateComment": ""
+  },
+  "ploti3889": {
+    "id": "ploti3889",
+    "title": "Участок 3889",
+    "area": "6.23",
+    "price": "311500",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0512002:3889",
+    "privateComment": ""
+  },
+  "ploti14426": {
+    "id": "ploti14426",
+    "title": "Участок 14426",
+    "area": "50",
+    "price": "3000000",
+    "status": "available",
+    "description": "Земельный участок: 74:02:0511002:14426",
+    "privateComment": ""
   }
 }
