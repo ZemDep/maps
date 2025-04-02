@@ -1282,9 +1282,9 @@
     "title": "Участок 14332",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14332",
-    "privateComment": ""
+    "privateComment": "Ирма от Саши"
   },
   "plot14325": {
     "id": "plot14325",
@@ -1840,9 +1840,9 @@
     "title": "Участок 14410",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14410",
-    "privateComment": ""
+    "privateComment": "Жанна от Саши"
   },
   "ploti14403": {
     "id": "ploti14403",
