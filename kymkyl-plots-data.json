@@ -940,7 +940,7 @@
     "title": "Участок 14582",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14582",
     "privateComment": "клиент Ирины"
   },
@@ -958,7 +958,7 @@
     "title": "Участок 14581",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14581",
     "privateComment": "клиент Ирины"
   },
