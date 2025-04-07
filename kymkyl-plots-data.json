@@ -1282,9 +1282,9 @@
     "title": "Участок 14332",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14332",
-    "privateComment": "Ирма от Саши"
+    "privateComment": ""
   },
   "plot14325": {
     "id": "plot14325",
