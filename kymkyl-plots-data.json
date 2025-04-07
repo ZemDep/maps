@@ -913,7 +913,7 @@
     "title": "Участок 14591",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14591",
     "privateComment": ""
   },
@@ -922,7 +922,7 @@
     "title": "Участок 14592",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14592",
     "privateComment": ""
   },
