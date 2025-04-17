@@ -2335,9 +2335,9 @@
     "title": "Участок 14489",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14489",
-    "privateComment": ""
+    "privateComment": "irina ot 17 04 25"
   },
   "ploti14486": {
     "id": "ploti14486",
@@ -2353,7 +2353,7 @@
     "title": "Участок 14487",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14487",
     "privateComment": ""
   },
@@ -2364,7 +2364,7 @@
     "price": "300000",
     "status": "available",
     "description": "Земельный участок: 74:02:0511002:14485",
-    "privateComment": ""
+    "privateComment": "irina ot 17/04/2025"
   },
   "ploti14575": {
     "id": "ploti14575",
