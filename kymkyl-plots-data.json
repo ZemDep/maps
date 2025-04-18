@@ -202,9 +202,9 @@
     "title": "Участок 3875",
     "area": "6",
     "price": "240000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0512002:3875",
-    "privateComment": ""
+    "privateComment": "sasha ot 17-18 apr"
   },
   "plot3876": {
     "id": "plot3876",
@@ -1840,7 +1840,7 @@
     "title": "Участок 14410",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "available",
     "description": "Земельный участок: 74:02:0511002:14410",
     "privateComment": "Жанна от Саши"
   },
