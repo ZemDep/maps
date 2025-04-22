@@ -1840,9 +1840,9 @@
     "title": "Участок 14410",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14410",
-    "privateComment": "Жанна от Саши"
+    "privateComment": "клиенты Ирины"
   },
   "ploti14403": {
     "id": "ploti14403",
@@ -1858,18 +1858,18 @@
     "title": "Участок 14411",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14411",
-    "privateComment": ""
+    "privateComment": "клиенты Ирины"
   },
   "ploti14412": {
     "id": "ploti14412",
     "title": "Участок 14412",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14412",
-    "privateComment": ""
+    "privateComment": "клиенты Ирины"
   },
   "ploti14405": {
     "id": "ploti14405",
@@ -1885,9 +1885,9 @@
     "title": "Участок 14413",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Земельный участок: 74:02:0511002:14413",
-    "privateComment": ""
+    "privateComment": "клиенты Ирины"
   },
   "ploti14407": {
     "id": "ploti14407",
@@ -2137,9 +2137,9 @@
     "title": "Участок 14605",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Земельный участок: 74:02:0511002:14605",
-    "privateComment": ""
+    "privateComment": "Ol Trosh - 22/04/2025"
   },
   "ploti14606": {
     "id": "ploti14606",
@@ -2371,9 +2371,9 @@
     "title": "Участок 14575",
     "area": "7",
     "price": "350000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Земельный участок: 74:02:0511002:14575",
-    "privateComment": "sasha ot 18 apr 25"
+    "privateComment": "sold at 22/04/2025"
   },
   "ploti14576": {
     "id": "ploti14576",
