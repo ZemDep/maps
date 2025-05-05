@@ -1,13 +1,13 @@
 {
-  "plot3872": {
-    "id": "plot3872",
-    "title": "Участок 3872",
-    "area": "9.3",
-    "price": "465000",
-    "status": "available",
-    "description": "Кадастровый номер 74:02:0512002:3872. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3872&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
-  },
+    "plot3872": {
+      "id": "plot3872",
+      "title": "Участок 3872",
+      "area": "9.3",
+      "price": "465000",
+      "status": "available",
+     "description": "Кадастровый номер 74:02:0512002:3872. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3872&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
+      "privateComment": ""
+    },
   "plot3883": {
     "id": "plot3883",
     "title": "Участок 3883",
@@ -1051,7 +1051,7 @@
     "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14474. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14474&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
-  }
+  },
   "plot14470": {
     "id": "plot14470",
     "title": "Участок 14470",
@@ -1384,8 +1384,7 @@
     "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14337. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14337&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
-  }
-{
+  },
   "plot14589": {
     "id": "plot14589",
     "title": "Участок 14589",
