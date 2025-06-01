@@ -211,7 +211,7 @@
     "title": "Участок 3876",
     "area": "6",
     "price": "240000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0512002:3876. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3876&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -2074,7 +2074,7 @@
     "title": "Участок 14369",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14369. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14369&type=parcel)",
     "privateComment": ""
   },
