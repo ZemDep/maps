@@ -1,13 +1,13 @@
 {
-    "plot3872": {
-      "id": "plot3872",
-      "title": "Участок 3872",
-      "area": "9.3",
-      "price": "465000",
-      "status": "available",
-     "description": "Кадастровый номер 74:02:0512002:3872. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3872&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-      "privateComment": ""
-    },
+  "plot3872": {
+    "id": "plot3872",
+    "title": "Участок 3872",
+    "area": "9.3",
+    "price": "465000",
+    "status": "available",
+    "description": "Кадастровый номер 74:02:0512002:3872. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3872&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
+    "privateComment": ""
+  },
   "plot3883": {
     "id": "plot3883",
     "title": "Участок 3883",
@@ -422,7 +422,7 @@
     "description": "Кадастровый номер 74:02:0511002:14566. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14566&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв"
   },
-    "plot14565": {
+  "plot14565": {
     "id": "plot14565",
     "title": "Участок 14565",
     "area": "6",
@@ -728,7 +728,7 @@
     "description": "Кадастровый номер 74:02:0511002:14526. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14526&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
-    "plat14525": {
+  "plat14525": {
     "id": "plat14525",
     "title": "Участок 14525",
     "area": "6",
@@ -1816,7 +1816,7 @@
     "status": "sold",
     "description": "Земельный участок: 74:02:0511002:14409. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14409&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
- },
+  },
   "ploti14408": {
     "id": "ploti14408",
     "title": "Участок 14408",
@@ -2082,7 +2082,7 @@
     "id": "ploti14555",
     "title": "Участок 14555",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14555. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14555&type=parcel)",
     "privateComment": ""
@@ -2100,7 +2100,7 @@
     "id": "ploti14552",
     "title": "Участок 14552",
     "area": "7",
-    "price": "350000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14552. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14552&type=parcel)",
     "privateComment": ""
@@ -2109,7 +2109,7 @@
     "id": "ploti14548",
     "title": "Участок 14548",
     "area": "7.48",
-    "price": "374000",
+    "price": "448800",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14548. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14548&type=parcel)",
     "privateComment": ""
@@ -2119,7 +2119,7 @@
     "title": "Участок 14596",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14596. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14596&type=parcel)",
     "privateComment": "Veronika ot Irini"
   },
@@ -2128,7 +2128,7 @@
     "title": "Участок 14597",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14597. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14597&type=parcel)",
     "privateComment": "Veronika ot Irini"
   },
@@ -2145,7 +2145,7 @@
     "id": "ploti14606",
     "title": "Участок 14606",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14606. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14606&type=parcel)",
     "privateComment": ""
@@ -2155,7 +2155,7 @@
     "title": "Участок 14598",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14598. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14598&type=parcel)",
     "privateComment": "Veronika ot Irini"
   },
@@ -2163,7 +2163,7 @@
     "id": "ploti14607",
     "title": "Участок 14607",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14607. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14607&type=parcel)",
     "privateComment": ""
@@ -2172,7 +2172,7 @@
     "id": "ploti14599",
     "title": "Участок 14599",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14599. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14599&type=parcel)",
     "privateComment": ""
@@ -2181,7 +2181,7 @@
     "id": "ploti14608",
     "title": "Участок 14608",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14608. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14608&type=parcel)",
     "privateComment": ""
@@ -2190,7 +2190,7 @@
     "id": "ploti14601",
     "title": "Участок 14601",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14601. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14601&type=parcel)",
     "privateComment": ""
@@ -2199,7 +2199,7 @@
     "id": "ploti14609",
     "title": "Участок 14609",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14609. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14609&type=parcel)",
     "privateComment": ""
@@ -2208,7 +2208,7 @@
     "id": "ploti14602",
     "title": "Участок 14602",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14602. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14602&type=parcel)",
     "privateComment": ""
@@ -2217,7 +2217,7 @@
     "id": "ploti14610",
     "title": "Участок 14610",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14610. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14610&type=parcel)",
     "privateComment": ""
@@ -2226,7 +2226,7 @@
     "id": "ploti14320",
     "title": "Участок 14320",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14320. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14320&type=parcel)",
     "privateComment": ""
@@ -2235,7 +2235,7 @@
     "id": "ploti14319",
     "title": "Участок 14319",
     "area": "6.37",
-    "price": "318500",
+    "price": "382220",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14319. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14319&type=parcel)",
     "privateComment": ""
@@ -2244,7 +2244,7 @@
     "id": "ploti14527",
     "title": "Участок 14527",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14527. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14527&type=parcel)",
     "privateComment": ""
@@ -2253,7 +2253,7 @@
     "id": "ploti14502",
     "title": "Участок 14502",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14502. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14502&type=parcel)",
     "privateComment": ""
@@ -2262,16 +2262,16 @@
     "id": "ploti14500",
     "title": "Участок 14500",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14500. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14500&type=parcel)",
     "privateComment": ""
   },
-    "ploti14498": {
+  "ploti14498": {
     "id": "ploti14498",
     "title": "Участок 14498",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14498. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14498&type=parcel)",
     "privateComment": ""
@@ -2280,7 +2280,7 @@
     "id": "ploti14496",
     "title": "Участок 14496",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14496. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14496&type=parcel)",
     "privateComment": ""
@@ -2289,7 +2289,7 @@
     "id": "ploti14495",
     "title": "Участок 14495",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14495. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14495&type=parcel)",
     "privateComment": ""
@@ -2298,7 +2298,7 @@
     "id": "ploti14493",
     "title": "Участок 14493",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14493. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14493&type=parcel)",
     "privateComment": ""
@@ -2307,7 +2307,7 @@
     "id": "ploti14492",
     "title": "Участок 14492",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14492. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14492&type=parcel)",
     "privateComment": ""
@@ -2316,7 +2316,7 @@
     "id": "ploti14491",
     "title": "Участок 14491",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14491. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14491&type=parcel)",
     "privateComment": ""
@@ -2335,7 +2335,7 @@
     "title": "Участок 14489",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14489. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14489&type=parcel)",
     "privateComment": "irina ot 17 04 25"
   },
@@ -2353,7 +2353,7 @@
     "title": "Участок 14487",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14487. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14487&type=parcel)",
     "privateComment": ""
   },
@@ -2361,7 +2361,7 @@
     "id": "ploti14485",
     "title": "Участок 14485",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14485. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14485&type=parcel)",
     "privateComment": "irina ot 17/04/2025"
@@ -2378,8 +2378,8 @@
   "ploti14576": {
     "id": "ploti14576",
     "title": "Участок 14576",
-    "area": "666",
-    "price": "333000",
+    "area": "6.66",
+    "price": "399600",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14576. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14576&type=parcel)",
     "privateComment": ""
@@ -2388,7 +2388,7 @@
     "id": "ploti14574",
     "title": "Участок 14574",
     "area": "7",
-    "price": "350000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14574. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14574&type=parcel)",
     "privateComment": ""
@@ -2397,7 +2397,7 @@
     "id": "ploti14571",
     "title": "Участок 14571",
     "area": "7",
-    "price": "350000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14571. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14571&type=parcel)",
     "privateComment": ""
@@ -2406,7 +2406,7 @@
     "id": "ploti14557",
     "title": "Участок 14557",
     "area": "7.76",
-    "price": "388000",
+    "price": "465000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0511002:14557. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14557&type=parcel)",
     "privateComment": ""
@@ -2415,7 +2415,7 @@
     "id": "ploti3934",
     "title": "Участок 3934",
     "area": "7",
-    "price": "280000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3934. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3934&type=parcel)",
     "privateComment": ""
@@ -2424,7 +2424,7 @@
     "id": "ploti3933",
     "title": "Участок 3933",
     "area": "7",
-    "price": "280000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3933. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3933&type=parcel)",
     "privateComment": ""
@@ -2433,7 +2433,7 @@
     "id": "ploti3932",
     "title": "Участок 3932",
     "area": "7",
-    "price": "280000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3932. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3932&type=parcel)",
     "privateComment": ""
@@ -2442,7 +2442,7 @@
     "id": "ploti3931",
     "title": "Участок 3931",
     "area": "7",
-    "price": "280000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3931. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3931&type=parcel)",
     "privateComment": ""
@@ -2451,7 +2451,7 @@
     "id": "ploti3930",
     "title": "Участок 3930",
     "area": "6.68",
-    "price": "334000",
+    "price": "400800",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3930. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3930&type=parcel)",
     "privateComment": ""
@@ -2460,7 +2460,7 @@
     "id": "ploti3897",
     "title": "Участок 3897",
     "area": "7",
-    "price": "280000",
+    "price": "420000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3897. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3897&type=parcel)",
     "privateComment": ""
@@ -2469,7 +2469,7 @@
     "id": "ploti3896",
     "title": "Участок 3896",
     "area": "6",
-    "price": "240000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3896. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3896&type=parcel)",
     "privateComment": ""
@@ -2478,7 +2478,7 @@
     "id": "ploti3895",
     "title": "Участок 3895",
     "area": "6",
-    "price": "240000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3895. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3895&type=parcel)",
     "privateComment": ""
@@ -2487,7 +2487,7 @@
     "id": "ploti3893",
     "title": "Участок 3893",
     "area": "6",
-    "price": "240000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3893. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3893&type=parcel)",
     "privateComment": ""
@@ -2496,7 +2496,7 @@
     "id": "ploti3892",
     "title": "Участок 3892",
     "area": "6",
-    "price": "240000",
+    "price": "360000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3892. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3892&type=parcel)",
     "privateComment": ""
@@ -2505,7 +2505,7 @@
     "id": "ploti3889",
     "title": "Участок 3889",
     "area": "6.23",
-    "price": "311500",
+    "price": "374000",
     "status": "available",
     "description": "Кадастровый номер участка: 74:02:0512002:3889. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3889&type=parcel)",
     "privateComment": ""
@@ -2520,5 +2520,3 @@
     "privateComment": ""
   }
 }
-
-
