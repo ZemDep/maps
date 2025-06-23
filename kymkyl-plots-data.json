@@ -130,9 +130,9 @@
     "title": "Участок 3905",
     "area": "6.1",
     "price": "305000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0512002:3905. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3905&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "‪+7 904 941‑55‑24‬"
   },
   "plot3917": {
     "id": "plot3917",
@@ -148,9 +148,9 @@
     "title": "Участок 3947",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0512002:3947. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3947&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "‪+7 904 941‑55‑24‬"
   },
   "plot3927": {
     "id": "plot3927",
@@ -301,18 +301,18 @@
     "title": "Участок 3956",
     "area": "7",
     "price": "280000",
-    "status": "available",
+    "status": "reserved",
     "description": "",
-    "privateComment": ""
+    "privateComment": "+7 919 123-37-92"
   },
   "plot3957": {
     "id": "plot3957",
     "title": "Участок 3957",
     "area": "7",
     "price": "280000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0512002:3957. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3957&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "+7 919 123-37-92"
   },
   "plot5156": {
     "id": "plot5156",
