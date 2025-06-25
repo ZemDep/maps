@@ -192,8 +192,8 @@
     "id": "plot3874",
     "title": "Участок 3874",
     "area": "6",
-    "price": "240000",
-    "status": "reserved",
+    "price": "300000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3874. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3874&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "predvaritelno zabronili +7 952 509-26-10"
   },
@@ -1822,18 +1822,18 @@
     "title": "Участок 14408",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14408. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14408&type=parcel)",
-    "privateComment": ""
+    "privateComment": "+7 991 414-02-44"
   },
   "ploti14401": {
     "id": "ploti14401",
     "title": "Участок 14401",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14401. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14401&type=parcel)",
-    "privateComment": ""
+    "privateComment": "+7 991 414-02-44"
   },
   "ploti14410": {
     "id": "ploti14410",
