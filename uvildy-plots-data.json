@@ -3744,10 +3744,10 @@
     "area": "6.46",
     "pricePerSotka": "100000",
     "price": "646000",
-    "status": "available",
+    "status": "sold",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "Kolosov A",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
