@@ -202,9 +202,9 @@
     "title": "Участок 3875",
     "area": "6",
     "price": "240000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3875. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3875&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "sasha ot 17-18 apr"
+    "privateComment": ""
   },
   "plot3876": {
     "id": "plot3876",
