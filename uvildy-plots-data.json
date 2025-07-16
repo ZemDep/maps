@@ -76,12 +76,12 @@
     "area": "6",
     "pricePerSotka": "100000",
     "price": "600000",
-    "status": "reserved",
+    "status": "sold",
     "substatus": "",
     "description": "",
     "privateComment": "",
     "group": "IGOR",
-    "subgroup": ""
+    "subgroup": "ildiz ot sashi"
   },
   "plotig2646": {
     "id": "plotig2646",
@@ -4360,10 +4360,10 @@
     "area": "6.0",
     "pricePerSotka": "100000",
     "price": "600000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "+7 908 582-09-29 - dinara, sdelka v avg",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
@@ -4391,7 +4391,7 @@
     "status": "available",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "+7 908 582-09-29 - dinara, sdelka v avg",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
