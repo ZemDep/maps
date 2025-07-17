@@ -1174,7 +1174,7 @@
     "title": "Участок 14453",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14453. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14453&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "Sasha july 2025"
   },
@@ -1183,7 +1183,7 @@
     "title": "Участок 14454",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14454. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14454&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "Sasha july 2025"
   },
@@ -1192,7 +1192,7 @@
     "title": "Участок 14449",
     "area": "7",
     "price": "420000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14449. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14449&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "sasha 14 07"
   },
@@ -1579,7 +1579,7 @@
     "title": "Участок 14394",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14394. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14394&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -1903,7 +1903,7 @@
     "title": "Участок 14433",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14433. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14433&type=parcel)",
     "privateComment": ""
   },
