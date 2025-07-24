@@ -1714,27 +1714,27 @@
     "title": "Участок 14380",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14380. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14380&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "sasha 24 07 25"
   },
   "plot14434": {
     "id": "plot14434",
     "title": "Участок 14434",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14434. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14434&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "sasha ot 24 07"
   },
   "plot14379": {
     "id": "plot14379",
     "title": "Участок 14379",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14379. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14379&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "sasha ot 24 07"
   },
   "plot14424": {
     "id": "plot14424",
@@ -1957,9 +1957,9 @@
     "title": "Участок 14439",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14439. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14439&type=parcel)",
-    "privateComment": ""
+    "privateComment": "irina ot 24 07"
   },
   "ploti14374": {
     "id": "ploti14374",
@@ -1975,9 +1975,9 @@
     "title": "Участок 14429",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14429. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14429&type=parcel)",
-    "privateComment": ""
+    "privateComment": "irina ot 24 07"
   },
   "ploti14372": {
     "id": "ploti14372",
