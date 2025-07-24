@@ -301,7 +301,7 @@
     "title": "Участок 3956",
     "area": "7",
     "price": "420000",
-    "status": "resereved",
+    "status": "sold",
     "description": "",
     "privateComment": "Adelina"
   },
@@ -310,7 +310,7 @@
     "title": "Участок 3957",
     "area": "7",
     "price": "420000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0512002:3957. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3957&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "Adelina"
   },
