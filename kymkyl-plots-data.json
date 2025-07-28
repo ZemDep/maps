@@ -1111,9 +1111,9 @@
     "title": "Участок 14464",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14464. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14464&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "pod zameny"
   },
   "plot14465": {
     "id": "plot14465",
@@ -1129,9 +1129,9 @@
     "title": "Участок 14462",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14462. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14462&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "pod zameny"
   },
   "plot14463": {
     "id": "plot14463",
@@ -1147,7 +1147,7 @@
     "title": "Участок 14459",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14459. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14459&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "+7 951 464-05-11"
   },
