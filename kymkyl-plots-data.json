@@ -49,9 +49,9 @@
     "title": "Участок 3942",
     "area": "8",
     "price": "400000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0512002:3942. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3942&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "ot 09 08 ipoteku"
   },
   "plot3941": {
     "id": "plot3941",
@@ -904,9 +904,9 @@
     "title": "Участок 14590",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14590. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14590&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "Vladislav 09 08 25"
   },
   "plot14591": {
     "id": "plot14591",
