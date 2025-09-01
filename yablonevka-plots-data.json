@@ -31,7 +31,7 @@
     "title": "Участок 592",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 39:03:080916:592",
     "privateComment": ""
   },
@@ -112,7 +112,7 @@
     "title": "Участок 563",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 39:03:080916:563",
     "privateComment": ""
   },
