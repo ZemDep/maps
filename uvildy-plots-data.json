@@ -5256,10 +5256,10 @@
     "area": "8.0",
     "pricePerSotka": "100000",
     "price": "800000",
-    "status": "available",
+    "status": "sold",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "sasha prodal 08 09 25",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
