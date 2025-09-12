@@ -13,7 +13,7 @@
     "title": "Участок 426 ",
     "area": "6",
     "price": "300000",
-    "status": "reserved",
+    "status": "sold,
     "description": "Кадастровый номер 39:03:080916:426",
     "privateComment": ""
   },
@@ -21,7 +21,7 @@
     "id": "plot427",
     "title": "Участок 427",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "available",
     "description": "",
     "privateComment": ""
