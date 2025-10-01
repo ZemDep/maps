@@ -393,8 +393,8 @@
   },
   "plot7354": {
     "id": "plot7354",
-    "title": "23:41:0601001:7354",
-    "cadastralNumber": "Участок 7354*",
+    "title": "Участок 7354*",
+    "cadastralNumber": "23:41:0601001:7354",
     "area": "7",
     "pricePerSotka": "250000",
     "price": "1750000",
@@ -715,7 +715,7 @@
   },
   "otherPsekups": {
     "id": "otherPsekups",
-    "title": "",
+    "title": "река Псекупс",
     "cadastralNumber": "",
     "area": "",
     "pricePerSotka": "",
