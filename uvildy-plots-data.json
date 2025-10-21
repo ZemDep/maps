@@ -4206,10 +4206,10 @@
     "area": "7.0",
     "pricePerSotka": "100000",
     "price": "700000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "sasha ",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
