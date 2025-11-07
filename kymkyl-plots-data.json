@@ -373,9 +373,9 @@
     "title": "Участок 5162",
     "area": "7",
     "price": "400000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0000000:5162. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5162&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Лавринчук"
   },
   "plot5161": {
     "id": "plot5161",
