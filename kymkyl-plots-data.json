@@ -523,21 +523,21 @@
   },
   "plot3922": {
     "id": "plot3922",
-    "title": "Участок 3922",
+    "title": "Участок 3922*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3922. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3922&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Басарыгина"
   },
   "plot3923": {
     "id": "plot3923",
-    "title": "Участок 3923",
+    "title": "Участок 3923*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3923. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3923&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Басарыгина"
   },
   "plot3924": {
     "id": "plot3924",
