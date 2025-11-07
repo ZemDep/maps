@@ -442,48 +442,48 @@
   },
   "plot3916": {
     "id": "plot3916",
-    "title": "Участок 3916",
+    "title": "Участок 3916*",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3916. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3916&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Негода"
   },
   "plot3894": {
     "id": "plot3894",
-    "title": "Участок 3894",
+    "title": "Участок 3894*",
     "area": "5.42",
     "price": "325200",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3894. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3894&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Негода"
   },
   "plot3910": {
     "id": "plot3910",
-    "title": "Участок 3910",
+    "title": "Участок 3910*",
     "area": "6",
-    "price": "300000",
-    "status": "sold",
+    "price": "360000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3910. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3910&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Негода"
   },
   "plot3911": {
     "id": "plot3911",
-    "title": "Участок 3911",
+    "title": "Участок 3911*",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3911. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3911&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Негода"
   },
   "plot3912": {
     "id": "plot3912",
     "title": "Участок 3912",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3912. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3912&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Негода"
   },
   "plot3913": {
     "id": "plot3913",
