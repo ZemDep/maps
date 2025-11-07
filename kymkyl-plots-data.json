@@ -279,7 +279,7 @@
     "privateComment": "novikov"
   },
   "plot3881": {
-    "id": "plot3881",
+    "id": "plot3881*",
     "title": "Участок 3881",
     "area": "6",
     "price": "360000",
@@ -289,9 +289,9 @@
   },
   "plot3882": {
     "id": "plot3882",
-    "title": "Участок 3882",
+    "title": "Участок 3882*",
     "area": "6",
-    "price": "360000",
+    "price": "370000",
     "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3882. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3882&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв - семенова"
@@ -370,7 +370,7 @@
   },
   "plot5162": {
     "id": "plot5162",
-    "title": "Участок 5162",
+    "title": "Участок 5162*",
     "area": "7",
     "price": "400000",
     "status": "available",
@@ -406,30 +406,30 @@
   },
   "plot5158": {
     "id": "plot5158",
-    "title": "Участок 5158",
+    "title": "Участок 5158*",
     "area": "6",
-    "price": "300000",
+    "price": "400000",
     "status": "available",
     "description": "Кадастровый номер 74:02:0000000:5158. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5158&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв Бойко"
   },
   "plot14566": {
-    "id": "plot14566",
+    "id": "plot14566*",
     "title": "Участок 14566",
     "area": "6",
     "price": "400000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14566. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14566&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафина"
   },
   "plot14565": {
     "id": "plot14565",
-    "title": "Участок 14565",
+    "title": "Участок 14565*",
     "area": "6",
     "price": "400000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14565. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14565&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафина"
   },
   "plot14564": {
     "id": "plot14564",
@@ -487,7 +487,7 @@
   },
   "plot3913": {
     "id": "plot3913",
-    "title": "Участок 3913",
+    "title": "Участок 3913*",
     "area": "6",
     "price": "360000",
     "status": "available",
@@ -496,7 +496,7 @@
   },
   "plot3914": {
     "id": "plot3914",
-    "title": "Участок 3914",
+    "title": "Участок 3914*",
     "area": "6",
     "price": "360000",
     "status": "available",
@@ -505,7 +505,7 @@
   },
   "plot3915": {
     "id": "plot3915",
-    "title": "Участок 3915",
+    "title": "Участок 3915*",
     "area": "6",
     "price": "360000",
     "status": "available",
@@ -541,7 +541,7 @@
   },
   "plot3924": {
     "id": "plot3924",
-    "title": "Участок 3924",
+    "title": "Участок 3924*",
     "area": "6.04",
     "price": "370000",
     "status": "available",
