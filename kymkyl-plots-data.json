@@ -1540,12 +1540,12 @@
   },
   "plot14399": {
     "id": "plot14399",
-    "title": "Участок 14399",
+    "title": "Участок 14399*",
     "area": "6",
     "price": "500000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14399. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14399&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Касимов"
   },
   "plot14400": {
     "id": "plot14400",
@@ -1558,21 +1558,21 @@
   },
   "plot14397": {
     "id": "plot14397",
-    "title": "Участок 14397",
+    "title": "Участок 14397*",
     "area": "6",
     "price": "500000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14397. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14397&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Касимов"
   },
   "plot14398": {
     "id": "plot14398",
-    "title": "Участок 14398",
+    "title": "Участок 14398*",
     "area": "6",
     "price": "500000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14398. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14398&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Касимов"
   },
   "plot14394": {
     "id": "plot14394",
@@ -1585,12 +1585,12 @@
   },
   "plot14396": {
     "id": "plot14396",
-    "title": "Участок 14396",
+    "title": "Участок 14396*",
     "area": "6",
     "price": "500000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14396. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14396&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Касимов"
   },
   "plot14393": {
     "id": "plot14393",
