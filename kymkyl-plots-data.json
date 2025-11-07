@@ -409,9 +409,9 @@
     "title": "Участок 5158",
     "area": "6",
     "price": "300000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0000000:5158. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5158&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Бойко"
   },
   "plot14566": {
     "id": "plot14566",
@@ -490,27 +490,27 @@
     "title": "Участок 3913",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3913. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3913&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Бойко"
   },
   "plot3914": {
     "id": "plot3914",
     "title": "Участок 3914",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3914. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3914&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Бойко"
   },
   "plot3915": {
     "id": "plot3915",
     "title": "Участок 3915",
     "area": "6",
     "price": "360000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3915. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3915&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "инв Бойко"
   },
   "plot3921": {
     "id": "plot3921",
@@ -544,9 +544,9 @@
     "title": "Участок 3924",
     "area": "6.04",
     "price": "370000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3924. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3924&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Бойко"
   },
   "plot14569": {
     "id": "plot14569",
