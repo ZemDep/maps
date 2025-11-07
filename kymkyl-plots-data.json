@@ -757,39 +757,39 @@
   },
   "plot14520": {
     "id": "plot14520",
-    "title": "14520",
+    "title": "Участок 14520*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14520. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14520&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафин И"
   },
   "plot14523": {
     "id": "plot14523",
-    "title": "",
+    "title": "Участок 14523*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14523. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14523&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафин И"
   },
   "plot14519": {
     "id": "plot14519",
-    "title": "",
+    "title": "Участок 14519*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "460000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14519. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14519&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафин"
   },
   "plot14524": {
     "id": "plot14524",
-    "title": "",
+    "title": "Участок 14524*",
     "area": "6",
-    "price": "360000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14524. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14524&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Мустафин"
   },
   "plot14517": {
     "id": "plot14517",
