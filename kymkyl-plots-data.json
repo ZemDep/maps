@@ -93,37 +93,37 @@
     "id": "plot3928",
     "title": "Участок 3928",
     "area": "7.01",
-    "price": "300000",
-    "status": "sold",
+    "price": "425000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3928. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3928&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "инв Филя"
   },
   "plot3919": {
     "id": "plot3919",
-    "title": "Участок 3919",
+    "title": "Участок 3919*",
     "area": "6",
-    "price": "300000",
-    "status": "sold",
+    "price": "360000",
+    "status": "available",
     "description": "КН 74:02:0512002:3919. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3919&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "инв филя"
   },
   "plot3920": {
     "id": "plot3920",
-    "title": "Участок 3920",
+    "title": "Участок 3920*",
     "area": "6",
     "price": "300000",
-    "status": "sold",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3920. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3920&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "инв Филя"
   },
   "plot3918": {
     "id": "plot3918",
-    "title": "Участок 3918",
+    "title": "Участок 3918*",
     "area": "6",
-    "price": "300000",
+    "price": "360000",
     "status": "sold",
     "description": "Кадастровый номер 74:02:0512002:3918. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3918&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "инв Филя"
   },
   "plot3905": {
     "id": "plot3905",
@@ -361,12 +361,12 @@
   },
   "plot5163": {
     "id": "plot5163",
-    "title": "Участок 5163",
+    "title": "Участок 5163*",
     "area": "7",
-    "price": "400000",
-    "status": "sold",
+    "price": "420000",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0000000:5163. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5163&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "инв"
+    "privateComment": "инв Филя"
   },
   "plot5162": {
     "id": "plot5162",
