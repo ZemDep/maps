@@ -283,7 +283,7 @@
     "title": "Участок 3881*",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0512002:3881. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0512002%253A3881&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв - лавринчук^ ,бронь до 17 нояб за Миленой 7 902 863-29-54"
   },
@@ -1111,7 +1111,7 @@
     "title": "Участок 14464",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14464. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14464&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "pod zameny"
   },
@@ -1129,7 +1129,7 @@
     "title": "Участок 14462",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14462. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14462&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "pod zameny"
   },
@@ -1534,7 +1534,7 @@
     "title": "Участок 14346",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14346. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14346&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "Екатерина +7 912 472-39-52"
   },
@@ -1696,9 +1696,9 @@
     "title": "Участок 14441",
     "area": "6",
     "price": "420000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14441. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14441&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "ушаков"
   },
   "plot14442": {
     "id": "plot14442",
@@ -1912,7 +1912,7 @@
     "title": "Участок 14431",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "",
     "privateComment": ""
   },
@@ -2290,7 +2290,7 @@
     "title": "Участок 14495",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14495. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14495&type=parcel)",
     "privateComment": ""
   },
@@ -2362,7 +2362,7 @@
     "title": "Участок 14485",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14485. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14485&type=parcel)",
     "privateComment": "irina ot 17/04/2025"
   },
