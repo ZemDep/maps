@@ -3002,10 +3002,10 @@
     "area": "6",
     "pricePerSotka": "100000",
     "price": "600000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "Alexander tg",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
@@ -3229,7 +3229,7 @@
     "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "Andr Kenzin tg",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
