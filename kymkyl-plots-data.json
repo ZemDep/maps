@@ -1165,9 +1165,9 @@
     "title": "Участок 14457",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14457. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14457&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "+7 912 308-98-65"
+    "privateComment": "+7 912 308-98-65 ipoteka 6%"
   },
   "plot14453": {
     "id": "plot14453",
@@ -1210,9 +1210,9 @@
     "title": "Участок 14452",
     "area": "7",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14452. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14452&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "sasha do fevralya"
   },
   "plot14321": {
     "id": "plot14321",
