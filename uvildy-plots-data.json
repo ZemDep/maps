@@ -3156,10 +3156,10 @@
     "area": "7",
     "pricePerSotka": "100000",
     "price": "700000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "Maria ipoteka",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
