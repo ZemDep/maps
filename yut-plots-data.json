@@ -1140,7 +1140,7 @@
     "area": "7,3",
     "pricePerSotka": "200000",
     "price": "1400000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
     "privateComment": "",
