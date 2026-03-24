@@ -1361,11 +1361,11 @@
     },
     "plot2217": {
       "title": "Участок 2217",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2217",
-      "PrivateComment": ""
+      "PrivateComment": "irina postavila 24 03 26"
     },
     "plot2218": {
       "title": "Участок 2218",
@@ -7337,19 +7337,19 @@
     },
     "plot3791": {
       "title": "Участок 3791",
-      "status": "available",
+      "status": "reserved,
       "area": 5.97,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:3791",
-      "PrivateComment": ""
+      "PrivateComment": "irina postavila 23 03 26 do 05 05 26"
     },
     "plot3792": {
       "title": "Участок 3792",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:3792",
-      "PrivateComment": ""
+      "PrivateComment": "irina postavila 23 03 26 do 05 05 26"
     },
     "plot3793": {
       "title": "Участок 3793",
@@ -7561,11 +7561,11 @@
     },
     "plot3819": {
       "title": "Участок 3819",
-      "status": "available",
+      "status": "reserved,
       "area": 5.98,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:3819",
-      "PrivateComment": ""
+      "PrivateComment": "irina postavila 24 03 26 na 1 den"
     },
     "plot3820": {
       "title": "Участок 3820",
