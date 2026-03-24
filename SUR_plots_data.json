@@ -1,0 +1,4178 @@
+{
+  "settings": {
+    "groupPrices": {
+      "SUR_ELTR": 200000,
+      "SUR": 150000,
+      "INVESTOR": 180000
+    }
+  },
+  "plots": {
+    "plot1491": {
+      "title": "Участок 1491",
+      "status": "sold",
+      "area": 13.34,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1491",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1493": {
+      "title": "Участок 1493",
+      "status": "sold",
+      "area": 11.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1493",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1494": {
+      "title": "Участок 1494",
+      "status": "sold",
+      "area": 11.33,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1494",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1495": {
+      "title": "Участок 1495",
+      "status": "sold",
+      "area": 11.96,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1495",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1497": {
+      "title": "Участок 1497",
+      "status": "available",
+      "area": 7.41,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1497",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1498": {
+      "title": "Участок 1498",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1498",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1499": {
+      "title": "Участок 1499",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1499",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1500": {
+      "title": "Участок 1500",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1500",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1501": {
+      "title": "Участок 1501",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1501",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1502": {
+      "title": "Участок 1502",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1502",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1503": {
+      "title": "Участок 1503",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1503",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1504": {
+      "title": "Участок 1504",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1504",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1505": {
+      "title": "Участок 1505",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1505",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1508": {
+      "title": "Участок 1508",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1508",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1509": {
+      "title": "Участок 1509",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1509",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1510": {
+      "title": "Участок 1510",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1510",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1511": {
+      "title": "Участок 1511",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1511",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1512": {
+      "title": "Участок 1512",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1512",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1514": {
+      "title": "Участок 1514",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1514",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1515": {
+      "title": "Участок 1515",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1515",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1517": {
+      "title": "Участок 1517",
+      "status": "available",
+      "area": 6.03,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1517",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1516": {
+      "title": "Участок 1516",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1516",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1506": {
+      "title": "Участок 1506",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1506",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1518": {
+      "title": "Участок 1518",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1518",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1520": {
+      "title": "Участок 1520",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1520",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1521": {
+      "title": "Участок 1521",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1521",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1522": {
+      "title": "Участок 1522",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1522",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1523": {
+      "title": "Участок 1523",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1523",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1524": {
+      "title": "Участок 1524",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1524",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1525": {
+      "title": "Участок 1525",
+      "status": "available",
+      "area": 6.58,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1525",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1513": {
+      "title": "Участок 1513",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1513",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1526": {
+      "title": "Участок 1526",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1526",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1492": {
+      "title": "Участок 1492",
+      "status": "sold",
+      "area": 13.64,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1492",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1527": {
+      "title": "Участок 1527",
+      "status": "available",
+      "area": 7.05,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1527",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1529": {
+      "title": "Участок 1529",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1529",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1530": {
+      "title": "Участок 1530",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1530",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1531": {
+      "title": "Участок 1531",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1531",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1533": {
+      "title": "Участок 1533",
+      "status": "sold",
+      "area": 6.46,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1533",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1532": {
+      "title": "Участок 1532",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1532",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1534": {
+      "title": "Участок 1534",
+      "status": "reserved",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1534",
+      "PrivateComment": "bron ot 21 03 26",
+      "PublicComment": null
+    },
+    "plot1535": {
+      "title": "Участок 1535",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1535",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1536": {
+      "title": "Участок 1536",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1536",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1538": {
+      "title": "Участок 1538",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1538",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1507": {
+      "title": "Участок 1507",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1507",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1539": {
+      "title": "Участок 1539",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1539",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1519": {
+      "title": "Участок 1519",
+      "status": "sold",
+      "area": 8.29,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1519",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1540": {
+      "title": "Участок 1540",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1540",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1541": {
+      "title": "Участок 1541",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1541",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1542": {
+      "title": "Участок 1542",
+      "status": "available",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1542",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1544": {
+      "title": "Участок 1544",
+      "status": "available",
+      "area": 11.44,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1544",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1543": {
+      "title": "Участок 1543",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1543",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1545": {
+      "title": "Участок 1545",
+      "status": "available",
+      "area": 10.03,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1545",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1546": {
+      "title": "Участок 1546",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1546",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1548": {
+      "title": "Участок 1548",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1548",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1549": {
+      "title": "Участок 1549",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1549",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1550": {
+      "title": "Участок 1550",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1550",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1551": {
+      "title": "Участок 1551",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1551",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1528": {
+      "title": "Участок 1528",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1528",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1552": {
+      "title": "Участок 1552",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1552",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1553": {
+      "title": "Участок 1553",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1553",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1554": {
+      "title": "Участок 1554",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1554",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1555": {
+      "title": "Участок 1555",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1555",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1556": {
+      "title": "Участок 1556",
+      "status": "available",
+      "area": 8.33,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1556",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1559": {
+      "title": "Участок 1559",
+      "status": "sold",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1559",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1558": {
+      "title": "Участок 1558",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1558",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1560": {
+      "title": "Участок 1560",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1560",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1561": {
+      "title": "Участок 1561",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1561",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1564": {
+      "title": "Участок 1564",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1564",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1562": {
+      "title": "Участок 1562",
+      "status": "sold",
+      "area": 10.65,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1562",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1566": {
+      "title": "Участок 1566",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1566",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1565": {
+      "title": "Участок 1565",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1565",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1568": {
+      "title": "Участок 1568",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1568",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1567": {
+      "title": "Участок 1567",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1567",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1569": {
+      "title": "Участок 1569",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1569",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1571": {
+      "title": "Участок 1571",
+      "status": "sold",
+      "area": 6.46,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1571",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1563": {
+      "title": "Участок 1563",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1563",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1574": {
+      "title": "Участок 1574",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1574",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1570": {
+      "title": "Участок 1570",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1570",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1573": {
+      "title": "Участок 1573",
+      "status": "available",
+      "area": 6.24,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1573",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1576": {
+      "title": "Участок 1576",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1576",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1577": {
+      "title": "Участок 1577",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1577",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1578": {
+      "title": "Участок 1578",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1578",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1579": {
+      "title": "Участок 1579",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1579",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1537": {
+      "title": "Участок 1537",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1537",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1581": {
+      "title": "Участок 1581",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1581",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1580": {
+      "title": "Участок 1580",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1580",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1582": {
+      "title": "Участок 1582",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1582",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1585": {
+      "title": "Участок 1585",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1585",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1583": {
+      "title": "Участок 1583",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1583",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1586": {
+      "title": "Участок 1586",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1586",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1589": {
+      "title": "Участок 1589",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1589",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1588": {
+      "title": "Участок 1588",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1588",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1590": {
+      "title": "Участок 1590",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1590",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1591": {
+      "title": "Участок 1591",
+      "status": "available",
+      "area": 10.14,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1591",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1592": {
+      "title": "Участок 1592",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1592",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1594": {
+      "title": "Участок 1594",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1594",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1593": {
+      "title": "Участок 1593",
+      "status": "available",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1593",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1595": {
+      "title": "Участок 1595",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1595",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1547": {
+      "title": "Участок 1547",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1547",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1596": {
+      "title": "Участок 1596",
+      "status": "available",
+      "area": 8.17,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1596",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1598": {
+      "title": "Участок 1598",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1598",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1599": {
+      "title": "Участок 1599",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1599",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1600": {
+      "title": "Участок 1600",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1600",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1601": {
+      "title": "Участок 1601",
+      "status": "available",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1601",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1572": {
+      "title": "Участок 1572",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1572",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1602": {
+      "title": "Участок 1602",
+      "status": "available",
+      "area": 8.53,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1602",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1604": {
+      "title": "Участок 1604",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1604",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1605": {
+      "title": "Участок 1605",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1605",
+      "PrivateComment": "s elektr ",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1603": {
+      "title": "Участок 1603",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1603",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1606": {
+      "title": "Участок 1606",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1606",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1607": {
+      "title": "Участок 1607",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1607",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1609": {
+      "title": "Участок 1609",
+      "status": "available",
+      "area": 11.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1609",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1610": {
+      "title": "Участок 1610",
+      "status": "available",
+      "area": 10.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1610",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1611": {
+      "title": "Участок 1611",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1611",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1612": {
+      "title": "Участок 1612",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1612",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1613": {
+      "title": "Участок 1613",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1613",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1614": {
+      "title": "Участок 1614",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1614",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1616": {
+      "title": "Участок 1616",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1616",
+      "PrivateComment": "s elektr",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1575": {
+      "title": "Участок 1575",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1575",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1620": {
+      "title": "Участок 1620",
+      "status": "sold",
+      "area": 7.16,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1620",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1623": {
+      "title": "Участок 1623",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1623",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1622": {
+      "title": "Участок 1622",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1622",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1625": {
+      "title": "Участок 1625",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1625",
+      "PrivateComment": "s elektr ",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1624": {
+      "title": "Участок 1624",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1624",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1626": {
+      "title": "Участок 1626",
+      "status": "sold",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1626",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1627": {
+      "title": "Участок 1627",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1627",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1584": {
+      "title": "Участок 1584",
+      "status": "sold",
+      "area": 7.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1584",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1629": {
+      "title": "Участок 1629",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1629",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1630": {
+      "title": "Участок 1630",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1630",
+      "PrivateComment": "s elektr - 15 kvt - 1,5 mln",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1628": {
+      "title": "Участок 1628",
+      "status": "sold",
+      "area": 10.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1628",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1631": {
+      "title": "Участок 1631",
+      "status": "sold",
+      "area": 6.18,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1631",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1608": {
+      "title": "Участок 1608",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1608",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1632": {
+      "title": "Участок 1632",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1632",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1634": {
+      "title": "Участок 1634",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1634",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1635": {
+      "title": "Участок 1635",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1635",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1636": {
+      "title": "Участок 1636",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1636",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1633": {
+      "title": "Участок 1633",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1633",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1638": {
+      "title": "Участок 1638",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1638",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1637": {
+      "title": "Участок 1637",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1637",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1641": {
+      "title": "Участок 1641",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1641",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1640": {
+      "title": "Участок 1640",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1640",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1642": {
+      "title": "Участок 1642",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1642",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1643": {
+      "title": "Участок 1643",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1643",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1646": {
+      "title": "Участок 1646",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1646",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1639": {
+      "title": "Участок 1639",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1639",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1647": {
+      "title": "Участок 1647",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1647",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1644": {
+      "title": "Участок 1644",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1644",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1645": {
+      "title": "Участок 1645",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1645",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1650": {
+      "title": "Участок 1650",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1650",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1649": {
+      "title": "Участок 1649",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1649",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1648": {
+      "title": "Участок 1648",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1648",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1651": {
+      "title": "Участок 1651",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1651",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1652": {
+      "title": "Участок 1652",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1652",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1653": {
+      "title": "Участок 1653",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1653",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1654": {
+      "title": "Участок 1654",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1654",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1655": {
+      "title": "Участок 1655",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1655",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1659": {
+      "title": "Участок 1659",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1659",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1656": {
+      "title": "Участок 1656",
+      "status": "sold",
+      "area": 8.6,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1656",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1660": {
+      "title": "Участок 1660",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1660",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1662": {
+      "title": "Участок 1662",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1662",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1661": {
+      "title": "Участок 1661",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1661",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1663": {
+      "title": "Участок 1663",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1663",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1664": {
+      "title": "Участок 1664",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1664",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1665": {
+      "title": "Участок 1665",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1665",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1666": {
+      "title": "Участок 1666",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1666",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1668": {
+      "title": "Участок 1668",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1668",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1669": {
+      "title": "Участок 1669",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1669",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1670": {
+      "title": "Участок 1670",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1670",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1671": {
+      "title": "Участок 1671",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1671",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1672": {
+      "title": "Участок 1672",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1672",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1673": {
+      "title": "Участок 1673",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1673",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1675": {
+      "title": "Участок 1675",
+      "status": "sold",
+      "area": 7.21,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1675",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1674": {
+      "title": "Участок 1674",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1674",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1676": {
+      "title": "Участок 1676",
+      "status": "sold",
+      "area": 6.2,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1676",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1677": {
+      "title": "Участок 1677",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1677",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1678": {
+      "title": "Участок 1678",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1678",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1679": {
+      "title": "Участок 1679",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1679",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1680": {
+      "title": "Участок 1680",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1680",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1681": {
+      "title": "Участок 1681",
+      "status": "sold",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1681",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1684": {
+      "title": "Участок 1684",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1684",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1685": {
+      "title": "Участок 1685",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1685",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1683": {
+      "title": "Участок 1683",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1683",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1686": {
+      "title": "Участок 1686",
+      "status": "sold",
+      "area": 8.39,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1686",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1587": {
+      "title": "Участок 1587",
+      "status": "sold",
+      "area": 7.02,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1587",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1688": {
+      "title": "Участок 1688",
+      "status": "sold",
+      "area": 10.2,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1688",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1690": {
+      "title": "Участок 1690",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1690",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1691": {
+      "title": "Участок 1691",
+      "status": "sold",
+      "area": 6.03,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1691",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1693": {
+      "title": "Участок 1693",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1693",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1692": {
+      "title": "Участок 1692",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1692",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1696": {
+      "title": "Участок 1696",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1696",
+      "PrivateComment": "s elektr",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1698": {
+      "title": "Участок 1698",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1698",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1697": {
+      "title": "Участок 1697",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1697",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1699": {
+      "title": "Участок 1699",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1699",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1700": {
+      "title": "Участок 1700",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1700",
+      "PrivateComment": "s elektr",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1701": {
+      "title": "Участок 1701",
+      "status": "sold",
+      "area": 6.02,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1701",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1702": {
+      "title": "Участок 1702",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1702",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1703": {
+      "title": "Участок 1703",
+      "status": "sold",
+      "area": 7.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1703",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1704": {
+      "title": "Участок 1704",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1704",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1705": {
+      "title": "Участок 1705",
+      "status": "sold",
+      "area": 8.16,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1705",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1706": {
+      "title": "Участок 1706",
+      "status": "sold",
+      "area": 9.1,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1706",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1707": {
+      "title": "Участок 1707",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1707",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1708": {
+      "title": "Участок 1708",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1708",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1710": {
+      "title": "Участок 1710",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1710",
+      "PrivateComment": "Uchadze",
+      "PublicComment": null
+    },
+    "plot1711": {
+      "title": "Участок 1711",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1711",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1712": {
+      "title": "Участок 1712",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1712",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1713": {
+      "title": "Участок 1713",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1713",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1714": {
+      "title": "Участок 1714",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1714",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1715": {
+      "title": "Участок 1715",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1715",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1716": {
+      "title": "Участок 1716",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1716",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1597": {
+      "title": "Участок 1597",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1597",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1717": {
+      "title": "Участок 1717",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1717",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1719": {
+      "title": "Участок 1719",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1719",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1718": {
+      "title": "Участок 1718",
+      "status": "sold",
+      "area": 8.55,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1718",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1720": {
+      "title": "Участок 1720",
+      "status": "sold",
+      "area": 9.29,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1720",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1722": {
+      "title": "Участок 1722",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1722",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1723": {
+      "title": "Участок 1723",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1723",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1721": {
+      "title": "Участок 1721",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1721",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1724": {
+      "title": "Участок 1724",
+      "status": "sold",
+      "area": 6.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1724",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1726": {
+      "title": "Участок 1726",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1726",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1727": {
+      "title": "Участок 1727",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1727",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1725": {
+      "title": "Участок 1725",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1725",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1728": {
+      "title": "Участок 1728",
+      "status": "sold",
+      "area": 7.12,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1728",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1729": {
+      "title": "Участок 1729",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1729",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1730": {
+      "title": "Участок 1730",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1730",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1731": {
+      "title": "Участок 1731",
+      "status": "reserved",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1731",
+      "PrivateComment": "bron (moya) @Gaponov_AV",
+      "PublicComment": null
+    },
+    "plot1732": {
+      "title": "Участок 1732",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1732",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1733": {
+      "title": "Участок 1733",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1733",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1621": {
+      "title": "Участок 1621",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1621",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1734": {
+      "title": "Участок 1734",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1734",
+      "PrivateComment": "Gagin",
+      "PublicComment": null
+    },
+    "plot1735": {
+      "title": "Участок 1735",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1735",
+      "PrivateComment": "Gagin",
+      "PublicComment": null
+    },
+    "plot1738": {
+      "title": "Участок 1738",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1738",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1737": {
+      "title": "Участок 1737",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1737",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1740": {
+      "title": "Участок 1740",
+      "status": "sold",
+      "area": 6.01,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1740",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1741": {
+      "title": "Участок 1741",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1741",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1743": {
+      "title": "Участок 1743",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1743",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1744": {
+      "title": "Участок 1744",
+      "status": "sold",
+      "area": 6.47,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1744",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1742": {
+      "title": "Участок 1742",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1742",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1745": {
+      "title": "Участок 1745",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1745",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1747": {
+      "title": "Участок 1747",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1747",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1746": {
+      "title": "Участок 1746",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1746",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1749": {
+      "title": "Участок 1749",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1749",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1750": {
+      "title": "Участок 1750",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1750",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1751": {
+      "title": "Участок 1751",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1751",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1752": {
+      "title": "Участок 1752",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1752",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1753": {
+      "title": "Участок 1753",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1753",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1754": {
+      "title": "Участок 1754",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1754",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1755": {
+      "title": "Участок 1755",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1755",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1756": {
+      "title": "Участок 1756",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1756",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1757": {
+      "title": "Участок 1757",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1757",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1736": {
+      "title": "Участок 1736",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1736",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1667": {
+      "title": "Участок 1667",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1667",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1760": {
+      "title": "Участок 1760",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1760",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1761": {
+      "title": "Участок 1761",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1761",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1762": {
+      "title": "Участок 1762",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1762",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1763": {
+      "title": "Участок 1763",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1763",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1764": {
+      "title": "Участок 1764",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1764",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1766": {
+      "title": "Участок 1766",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1766",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1767": {
+      "title": "Участок 1767",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1767",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1768": {
+      "title": "Участок 1768",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1768",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1748": {
+      "title": "Участок 1748",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1748",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1770": {
+      "title": "Участок 1770",
+      "status": "sold",
+      "area": 8.51,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1770",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1769": {
+      "title": "Участок 1769",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1769",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1772": {
+      "title": "Участок 1772",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1772",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1773": {
+      "title": "Участок 1773",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1773",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1771": {
+      "title": "Участок 1771",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1771",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1758": {
+      "title": "Участок 1758",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1758",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1776": {
+      "title": "Участок 1776",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1776",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1775": {
+      "title": "Участок 1775",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1775",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1777": {
+      "title": "Участок 1777",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1777",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1778": {
+      "title": "Участок 1778",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1778",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1779": {
+      "title": "Участок 1779",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1779",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1780": {
+      "title": "Участок 1780",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1780",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1781": {
+      "title": "Участок 1781",
+      "status": "sold",
+      "area": 8.72,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1781",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1782": {
+      "title": "Участок 1782",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1782",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1783": {
+      "title": "Участок 1783",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1783",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1785": {
+      "title": "Участок 1785",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1785",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1784": {
+      "title": "Участок 1784",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1784",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1786": {
+      "title": "Участок 1786",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1786",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1787": {
+      "title": "Участок 1787",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1787",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1789": {
+      "title": "Участок 1789",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1789",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1788": {
+      "title": "Участок 1788",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1788",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1790": {
+      "title": "Участок 1790",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1790",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1791": {
+      "title": "Участок 1791",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1791",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1793": {
+      "title": "Участок 1793",
+      "status": "sold",
+      "area": 10.11,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1793",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1794": {
+      "title": "Участок 1794",
+      "status": "sold",
+      "area": 6.57,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1794",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1795": {
+      "title": "Участок 1795",
+      "status": "sold",
+      "area": 6.63,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1795",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1796": {
+      "title": "Участок 1796",
+      "status": "sold",
+      "area": 6.38,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1796",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1797": {
+      "title": "Участок 1797",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1797",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1798": {
+      "title": "Участок 1798",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1798",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1799": {
+      "title": "Участок 1799",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1799",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1689": {
+      "title": "Участок 1689",
+      "status": "sold",
+      "area": 6.07,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1689",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1765": {
+      "title": "Участок 1765",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1765",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1709": {
+      "title": "Участок 1709",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1709",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1800": {
+      "title": "Участок 1800",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1800",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1864": {
+      "title": "Участок 1864",
+      "status": "available",
+      "area": 8.62,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1864",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1865": {
+      "title": "Участок 1865",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1865",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1866": {
+      "title": "Участок 1866",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1866",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1867": {
+      "title": "Участок 1867",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1867",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1759": {
+      "title": "Участок 1759",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1759",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1868": {
+      "title": "Участок 1868",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1868",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1869": {
+      "title": "Участок 1869",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1869",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1870": {
+      "title": "Участок 1870",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1870",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1871": {
+      "title": "Участок 1871",
+      "status": "sold",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1871",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1872": {
+      "title": "Участок 1872",
+      "status": "available",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1872",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1875": {
+      "title": "Участок 1875",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1875",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1876": {
+      "title": "Участок 1876",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1876",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1877": {
+      "title": "Участок 1877",
+      "status": "sold",
+      "area": 10.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1877",
+      "PrivateComment": "Ozhigova Galina",
+      "PublicComment": null
+    },
+    "plot1873": {
+      "title": "Участок 1873",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1873",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1879": {
+      "title": "Участок 1879",
+      "status": "available",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1879",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1878": {
+      "title": "Участок 1878",
+      "status": "available",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1878",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1874": {
+      "title": "Участок 1874",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1874",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1880": {
+      "title": "Участок 1880",
+      "status": "available",
+      "area": 10.08,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1880",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1881": {
+      "title": "Участок 1881",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1881",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1882": {
+      "title": "Участок 1882",
+      "status": "available",
+      "area": 7.5,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1882",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1884": {
+      "title": "Участок 1884",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1884",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1885": {
+      "title": "Участок 1885",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1885",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1886": {
+      "title": "Участок 1886",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1886",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1887": {
+      "title": "Участок 1887",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1887",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1883": {
+      "title": "Участок 1883",
+      "status": "available",
+      "area": 10.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1883",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1888": {
+      "title": "Участок 1888",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1888",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1889": {
+      "title": "Участок 1889",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1889",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1890": {
+      "title": "Участок 1890",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1890",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1891": {
+      "title": "Участок 1891",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1891",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1893": {
+      "title": "Участок 1893",
+      "status": "available",
+      "area": 8.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1893",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1892": {
+      "title": "Участок 1892",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1892",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1894": {
+      "title": "Участок 1894",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1894",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1895": {
+      "title": "Участок 1895",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1895",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1896": {
+      "title": "Участок 1896",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1896",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1897": {
+      "title": "Участок 1897",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1897",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1898": {
+      "title": "Участок 1898",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1898",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1900": {
+      "title": "Участок 1900",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1900",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1901": {
+      "title": "Участок 1901",
+      "status": "available",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1901",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1902": {
+      "title": "Участок 1902",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1902",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1774": {
+      "title": "Участок 1774",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1774",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1906": {
+      "title": "Участок 1906",
+      "status": "available",
+      "area": 6.18,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1906",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1907": {
+      "title": "Участок 1907",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1907",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1908": {
+      "title": "Участок 1908",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1908",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1909": {
+      "title": "Участок 1909",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1909",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1910": {
+      "title": "Участок 1910",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1910",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1899": {
+      "title": "Участок 1899",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1899",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1911": {
+      "title": "Участок 1911",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1911",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1912": {
+      "title": "Участок 1912",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1912",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1913": {
+      "title": "Участок 1913",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1913",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1914": {
+      "title": "Участок 1914",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1914",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1915": {
+      "title": "Участок 1915",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1915",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1916": {
+      "title": "Участок 1916",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1916",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1918": {
+      "title": "Участок 1918",
+      "status": "available",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1918",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1917": {
+      "title": "Участок 1917",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1917",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1919": {
+      "title": "Участок 1919",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1919",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1921": {
+      "title": "Участок 1921",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1921",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1903": {
+      "title": "Участок 1903",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1903",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1922": {
+      "title": "Участок 1922",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1922",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1924": {
+      "title": "Участок 1924",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1924",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1925": {
+      "title": "Участок 1925",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1925",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1928": {
+      "title": "Участок 1928",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1928",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1929": {
+      "title": "Участок 1929",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1929",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1930": {
+      "title": "Участок 1930",
+      "status": "reserved",
+      "area": 7.0,
+      "ownerGroup": "SUR_ELTR",
+      "cadastralNumber": "47:23:0439002:1930",
+      "PrivateComment": "s elektr bron 21 03 26",
+      "PublicComment": "Участок с электричеством"
+    },
+    "plot1926": {
+      "title": "Участок 1926",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1926",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1905": {
+      "title": "Участок 1905",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1905",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1932": {
+      "title": "Участок 1932",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1932",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1931": {
+      "title": "Участок 1931",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1931",
+      "PrivateComment": "Tereshenko E",
+      "PublicComment": null
+    },
+    "plot1936": {
+      "title": "Участок 1936",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1936",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1933": {
+      "title": "Участок 1933",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1933",
+      "PrivateComment": "Tereshenko E",
+      "PublicComment": null
+    },
+    "plot1938": {
+      "title": "Участок 1938",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1938",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1941": {
+      "title": "Участок 1941",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1941",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1942": {
+      "title": "Участок 1942",
+      "status": "sold",
+      "area": 8.04,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1942",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1940": {
+      "title": "Участок 1940",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1940",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1944": {
+      "title": "Участок 1944",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1944",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1946": {
+      "title": "Участок 1946",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1946",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1945": {
+      "title": "Участок 1945",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1945",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1948": {
+      "title": "Участок 1948",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1948",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1949": {
+      "title": "Участок 1949",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1949",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1950": {
+      "title": "Участок 1950",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1950",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1951": {
+      "title": "Участок 1951",
+      "status": "available",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1951",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1952": {
+      "title": "Участок 1952",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1952",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1953": {
+      "title": "Участок 1953",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1953",
+      "PrivateComment": "belokon irina",
+      "PublicComment": null
+    },
+    "plot1920": {
+      "title": "Участок 1920",
+      "status": "available",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1920",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1954": {
+      "title": "Участок 1954",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1954",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1955": {
+      "title": "Участок 1955",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1955",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1956": {
+      "title": "Участок 1956",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1956",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1958": {
+      "title": "Участок 1958",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1958",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1957": {
+      "title": "Участок 1957",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1957",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1959": {
+      "title": "Участок 1959",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1959",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1960": {
+      "title": "Участок 1960",
+      "status": "sold",
+      "area": 6.08,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1960",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1961": {
+      "title": "Участок 1961",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1961",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1937": {
+      "title": "Участок 1937",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1937",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1943": {
+      "title": "Участок 1943",
+      "status": "sold",
+      "area": 8.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1943",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1963": {
+      "title": "Участок 1963",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1963",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1965": {
+      "title": "Участок 1965",
+      "status": "sold",
+      "area": 7.21,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1965",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1966": {
+      "title": "Участок 1966",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1966",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1967": {
+      "title": "Участок 1967",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1967",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1968": {
+      "title": "Участок 1968",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1968",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1904": {
+      "title": "Участок 1904",
+      "status": "available",
+      "area": 6.08,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1904",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1969": {
+      "title": "Участок 1969",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1969",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1971": {
+      "title": "Участок 1971",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1971",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1972": {
+      "title": "Участок 1972",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1972",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1964": {
+      "title": "Участок 1964",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1964",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1973": {
+      "title": "Участок 1973",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1973",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1974": {
+      "title": "Участок 1974",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1974",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1975": {
+      "title": "Участок 1975",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1975",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1976": {
+      "title": "Участок 1976",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1976",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1977": {
+      "title": "Участок 1977",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1977",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1970": {
+      "title": "Участок 1970",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1970",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1979": {
+      "title": "Участок 1979",
+      "status": "sold",
+      "area": 8.4,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1979",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1980": {
+      "title": "Участок 1980",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1980",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1981": {
+      "title": "Участок 1981",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1981",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1947": {
+      "title": "Участок 1947",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1947",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1983": {
+      "title": "Участок 1983",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1983",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1984": {
+      "title": "Участок 1984",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1984",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1985": {
+      "title": "Участок 1985",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1985",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1962": {
+      "title": "Участок 1962",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1962",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1986": {
+      "title": "Участок 1986",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1986",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1988": {
+      "title": "Участок 1988",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1988",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1987": {
+      "title": "Участок 1987",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1987",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1989": {
+      "title": "Участок 1989",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "INVESTOR",
+      "cadastralNumber": "47:23:0439002:1989",
+      "PrivateComment": "Dronina",
+      "PublicComment": null
+    },
+    "plot1991": {
+      "title": "Участок 1991",
+      "status": "sold",
+      "area": 7.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1991",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1990": {
+      "title": "Участок 1990",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1990",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1978": {
+      "title": "Участок 1978",
+      "status": "sold",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1978",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot1982": {
+      "title": "Участок 1982",
+      "status": "sold",
+      "area": 6.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:1982",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2118": {
+      "title": "Участок 2118",
+      "status": "sold",
+      "area": 14.1,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:2118",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2237": {
+      "title": "Участок 2237",
+      "status": "sold",
+      "area": 12.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:2237",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2583": {
+      "title": "Участок 2583",
+      "status": "sold",
+      "area": 9.0,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:2583",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2584": {
+      "title": "Участок 2584",
+      "status": "sold",
+      "area": 8.99,
+      "ownerGroup": "SUR",
+      "cadastralNumber": "47:23:0439002:2584",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2114": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.75,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2114",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2500": {
+      "title": "дом",
+      "area": 1.2,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2500",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2581": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.47,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2581",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2568": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.35,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2568",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2580": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.9,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2580",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2582": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.92,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2582",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2593": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.84,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2593",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2596": {
+      "title": "дом",
+      "area": 1.84,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2596",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2606": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.73,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2606",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2608": {
+      "title": "дом",
+      "area": 1.12,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2608",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2597": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.83,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2597",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2613": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.49,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2613",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2617": {
+      "title": "дом",
+      "area": 0.83,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2617",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2666": {
+      "title": "дом",
+      "area": 0.71,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2666",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2674": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.03,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2674",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2698": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.98,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2698",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2700": {
+      "title": "дом",
+      "area": 1.0,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2700",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2703": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.86,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2703",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2704": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.28,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2704",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2707": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.66,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2707",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2706": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.62,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2706",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2710": {
+      "title": "дом",
+      "area": 0.87,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2710",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2719": {
+      "title": "дом",
+      "area": 0.91,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2719",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2729": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.56,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2729",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2819": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.01,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2819",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2864": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.64,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2864",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2858": {
+      "title": "дом",
+      "area": 0.73,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2858",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2867": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.75,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2867",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2870": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.45,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2870",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2868": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.48,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2868",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2869": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.31,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2869",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2876": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.32,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2876",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2883": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.75,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2883",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2885": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.81,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2885",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2888": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.01,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2888",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2886": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.39,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2886",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2890": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.82,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2890",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2891": {
+      "title": "дом",
+      "status": "sold",
+      "area": 1.06,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2891",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2887": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.85,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2887",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2898": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.52,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2898",
+      "PrivateComment": null,
+      "PublicComment": null
+    },
+    "plot2900": {
+      "title": "дом",
+      "status": "sold",
+      "area": 0.93,
+      "ownerGroup": null,
+      "cadastralNumber": "47:23:0439002:2900",
+      "PrivateComment": null,
+      "PublicComment": null
+    }
+  }
+}
