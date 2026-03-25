@@ -977,7 +977,7 @@
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1605",
       "PrivateComment": "s elektr ",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 10 кВт"
     },
     "plot1603": {
       "title": "Участок 1603",
@@ -1067,7 +1067,7 @@
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1616",
       "PrivateComment": "s elektr",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 10 кВт"
     },
     "plot1575": {
       "title": "Участок 1575",
@@ -1163,10 +1163,11 @@
       "title": "Участок 1630",
       "status": "available",
       "area": 6.0,
+      "price": 1500000
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1630",
       "PrivateComment": "s elektr - 15 kvt - 1,5 mln",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 15 кВт"
     },
     "plot1628": {
       "title": "Участок 1628",
@@ -1715,7 +1716,7 @@
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1696",
       "PrivateComment": "s elektr",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 10 кВт"
     },
     "plot1698": {
       "title": "Участок 1698",
@@ -1751,7 +1752,7 @@
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1700",
       "PrivateComment": "s elektr",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 10 кВт"
     },
     "plot1701": {
       "title": "Участок 1701",
@@ -3218,7 +3219,7 @@
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1930",
       "PrivateComment": "s elektr bron 21 03 26",
-      "PublicComment": "Участок с электричеством"
+      "PublicComment": "Участок с электричеством 10 кВт"
     },
     "plot1926": {
       "title": "Участок 1926",
