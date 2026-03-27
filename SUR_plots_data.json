@@ -711,11 +711,11 @@
     },
     "plot1573": {
       "title": "Участок 1573",
-      "status": "available",
+      "status": "reserved",
       "area": 6.24,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1573",
-      "PrivateComment": null,
+      "PrivateComment": "bron andrey (v max) ot 27 03 2026",
       "PublicComment": null
     },
     "plot1576": {
