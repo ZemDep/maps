@@ -711,7 +711,7 @@
     },
     "plot1573": {
       "title": "Участок 1573",
-      "status": "reserved",
+      "status": "sold",
       "area": 6.24,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1573",
@@ -828,11 +828,11 @@
     },
     "plot1588": {
       "title": "Участок 1588",
-      "status": "available",
+      "status": "reserved",
       "area": 7.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1588",
-      "PrivateComment": null,
+      "PrivateComment": "bron do 13 04 (moya)",
       "PublicComment": null
     },
     "plot1590": {
@@ -3367,7 +3367,7 @@
     },
     "plot1951": {
       "title": "Участок 1951",
-      "status": "available",
+      "status": "sold",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1951",
