@@ -505,16 +505,16 @@
   },
   "plot7376": {
     "id": "plot7376",
-    "title": "Участок 7376*",
-    "cadastralNumber": "",
-    "area": "",
-    "pricePerSotka": "",
-    "price": "",
+    "title": "Участок 7376",
+    "cadastralNumber": "23:41:0601001:7376",
+    "area": "7",
+    "pricePerSotka": "270000",
+    "price": "1690000",
     "status": "sold",
     "substatus": "",
     "description": "",
     "privateComment": "Кирюшкина",
-    "group": "ERLAN",
+    "group": "INVESTOR",
     "subgroup": ""
   },
   "plot7377": {
