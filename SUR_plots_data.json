@@ -1711,7 +1711,7 @@
     },
     "plot1696": {
       "title": "Участок 1696",
-      "status": "available",
+      "status": "reserved",
       "area": 8.0,
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1696",
@@ -1747,7 +1747,7 @@
     },
     "plot1700": {
       "title": "Участок 1700",
-      "status": "available",
+      "status": "reserved",
       "area": 8.0,
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1700",
