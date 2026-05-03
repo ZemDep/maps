@@ -4449,7 +4449,7 @@
     },
     "plot2762": {
       "title": "Участок 2762",
-      "status": "available",
+      "status": "reserved",
       "area": 6.95,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2762",
@@ -4457,7 +4457,7 @@
     },
     "plot2763": {
       "title": "Участок 2763",
-      "status": "available",
+      "status": "reserved",
       "area": 6.99,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2763",
@@ -5881,7 +5881,7 @@
     },
     "plot2948": {
       "title": "Участок 2948",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2948",
@@ -5925,7 +5925,7 @@
       "area": 6.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2953",
-      "PrivateComment": ""
+      "PrivateComment": "Kseniya 02 05 26"
     },
     "plot2954": {
       "title": "Участок 2954",
@@ -7553,7 +7553,7 @@
     },
     "plot3818": {
       "title": "Участок 3818",
-      "status": "available",
+      "status": "reserved,
       "area": 7.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:3818",
