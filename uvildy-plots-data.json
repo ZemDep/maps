@@ -3786,10 +3786,10 @@
     "area": "6.0",
     "pricePerSotka": "100000",
     "price": "600000",
-    "status": "available",
+    "status": "reserved",
     "substatus": "primary",
     "description": "",
-    "privateComment": "",
+    "privateComment": "igor v max",
     "group": "ERLAN",
     "subgroup": "RES1"
   },
