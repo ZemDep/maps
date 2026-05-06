@@ -58,18 +58,18 @@
     "title": "Участок 633",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 39:03:080916:633",
-    "privateComment": ""
+    "privateComment": "polina"
   },
   "plot632": {
     "id": "plot632",
     "title": "Участок 632",
     "area": "6",
     "price": "300000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 39:03:080916:632",
-    "privateComment": ""
+    "privateComment": "polina"
   },
   "plot631": {
     "id": "plot631",
