@@ -1,8 +1,8 @@
 {
   "settings": {
     "groupPrices": {
-      "SUR_ELTR": 200000,
-      "SUR": 150000,
+      "SUR_ELTR": 250000,
+      "SUR": 200000,
       "INVESTOR": 180000
     }
   },
@@ -1163,7 +1163,7 @@
       "title": "Участок 1630",
       "status": "available",
       "area": 6.0,
-      "price": 1500000,
+      "price": 1800000,
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1630",
       "PrivateComment": "s elektr - 15 kvt - 1,5 mln",
