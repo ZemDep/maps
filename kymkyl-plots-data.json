@@ -2020,7 +2020,7 @@
     "title": "Участок 14563",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14563. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14563&type=parcel)",
     "privateComment": ""
   },
@@ -2047,7 +2047,7 @@
     "title": "Участок 14370",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14370. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14370&type=parcel)",
     "privateComment": ""
   },
