@@ -1768,7 +1768,7 @@
     "title": "Участок 14419",
     "area": "6",
     "price": "420000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14419. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14419&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "ot irini klient do 15 june 2026"
   },
@@ -1777,7 +1777,7 @@
     "title": "Участок 14418",
     "area": "6",
     "price": "420000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14418. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14418&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "ot irini klient do 15 june 2026"
   },
@@ -1786,7 +1786,7 @@
     "title": "Участок 14416",
     "area": "6",
     "price": "420000",
-    "status": "reserved",
+    "status": "available",
     "description": "Кадастровый номер 74:02:0511002:14416. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14416&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "ot irini klient do 15 june 2026"
   },
@@ -2092,7 +2092,7 @@
     "title": "Участок 14549",
     "area": "8",
     "price": "480000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14549. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14549&type=parcel)",
     "privateComment": "mikail ot Georgiya do 25 apr"
   },
@@ -2110,7 +2110,7 @@
     "title": "Участок 14548",
     "area": "7.48",
     "price": "448800",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14548. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14548&type=parcel)",
     "privateComment": ""
   },
@@ -2407,7 +2407,7 @@
     "title": "Участок 14557",
     "area": "7.76",
     "price": "465000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14557. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14557&type=parcel)",
     "privateComment": ""
   },
