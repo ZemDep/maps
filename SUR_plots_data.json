@@ -783,7 +783,7 @@
     },
     "plot1582": {
       "title": "Участок 1582",
-      "status": "available",
+      "status": "reserved",
       "area": 7.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1582",
@@ -1071,7 +1071,7 @@
     },
     "plot1575": {
       "title": "Участок 1575",
-      "status": "available",
+      "status": "reserved",
       "area": 7.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1575",
