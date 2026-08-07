@@ -319,7 +319,7 @@
     "title": "Участок 5156",
     "area": "8",
     "price": "400000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0000000:5156. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5156&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": " zemdep bron do 07 avg 2026"
   },
@@ -328,7 +328,7 @@
     "title": "Участок 5157",
     "area": "8",
     "price": "400000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0000000:5157. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0000000%253A5157&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "zemdep bron do 07 avg 2026"
   },
@@ -1606,18 +1606,18 @@
     "title": "Участок 14392",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14392. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14392&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "radis"
   },
   "plot14390": {
     "id": "plot14390",
     "title": "Участок 14390",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14390. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14390&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "radis"
   },
   "plot14391": {
     "id": "plot14391",
@@ -2308,7 +2308,7 @@
     "title": "Участок 14492",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер участка: 74:02:0511002:14492. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14492&type=parcel)",
     "privateComment": ""
   },
