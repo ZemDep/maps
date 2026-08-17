@@ -742,25 +742,25 @@
     "title": "Участок 14521",
     "area": "6.91",
     "price": "415500",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14521. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14521&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "alya i v max avg 2026"
   },
   "plot14522": {
     "id": "plot14522",
     "title": "Участок 14522",
     "area": "7.13",
     "price": "427800",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14522. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14522&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "alya i v max avg 2026"
   },
   "plot14520": {
     "id": "plot14520",
     "title": "Участок 14520*",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14520. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14520&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв Мустафин И"
   },
@@ -769,7 +769,7 @@
     "title": "Участок 14523*",
     "area": "6",
     "price": "420000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14523. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14523&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "инв Мустафин И"
   },
@@ -1300,9 +1300,9 @@
     "title": "Участок 14331",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14331. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14331&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "Vladimir v max 15/08/26"
   },
   "plot14326": {
     "id": "plot14326",
@@ -1318,9 +1318,9 @@
     "title": "Участок 14330",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14330. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14330&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "Vladimir v max 15/08/26"
   },
   "plot14327": {
     "id": "plot14327",
@@ -1336,9 +1336,9 @@
     "title": "Участок 14328",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14328. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14328&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "Vladimir v max 15/08/26"
   },
   "plot14539": {
     "id": "plot14539",
