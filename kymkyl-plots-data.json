@@ -976,7 +976,7 @@
     "title": "Участок 14580",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14580. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14580&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -1156,7 +1156,7 @@
     "title": "Участок 14460",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14460. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14460&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": "Alia v max (ilnur pokup)"
   },
@@ -1237,7 +1237,7 @@
     "title": "Участок 14322",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14322. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14322&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -1390,7 +1390,7 @@
     "title": "Участок 14589",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер 74:02:0511002:14589. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14589&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
