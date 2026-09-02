@@ -832,18 +832,18 @@
     "title": "Участок 14511",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "КН 74:02:0511002:14511. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14511&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "dronin bron ot 02/09/26"
   },
   "plot14509": {
     "id": "plot14509",
     "title": "Участок 14509",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "КН 74:02:0511002:14509. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14509&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "dronin bron ot 02/09/26"
   },
   "plot14507": {
     "id": "plot14507",
@@ -1363,7 +1363,7 @@
     "title": "Участок 14336",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14336. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14336&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -2254,9 +2254,9 @@
     "title": "Участок 14502",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14502. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14502&type=parcel)",
-    "privateComment": ""
+    "privateComment": "lub v max"
   },
   "ploti14500": {
     "id": "ploti14500",
