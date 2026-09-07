@@ -405,11 +405,11 @@
     },
     "plot1539": {
       "title": "Участок 1539",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1539",
-      "PrivateComment": null,
+      "PrivateComment": "ot geo",
       "PublicComment": null
     },
     "plot1519": {
@@ -513,11 +513,11 @@
     },
     "plot1551": {
       "title": "Участок 1551",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1551",
-      "PrivateComment": null,
+      "PrivateComment": "artem ot geo",
       "PublicComment": null
     },
     "plot1528": {
@@ -1062,7 +1062,7 @@
     },
     "plot1616": {
       "title": "Участок 1616",
-      "status": "available",
+      "status": "reserved",
       "area": 7.0,
       "ownerGroup": "SUR_ELTR",
       "cadastralNumber": "47:23:0439002:1616",
@@ -1161,7 +1161,7 @@
     },
     "plot1630": {
       "title": "Участок 1630",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "price": 1800000,
       "ownerGroup": "SUR_ELTR",
@@ -2045,7 +2045,7 @@
     },
     "plot1733": {
       "title": "Участок 1733",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1733",
@@ -2090,11 +2090,11 @@
     },
     "plot1737": {
       "title": "Участок 1737",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1737",
-      "PrivateComment": null,
+      "PrivateComment": "alex ot geor",
       "PublicComment": null
     },
     "plot1740": {
