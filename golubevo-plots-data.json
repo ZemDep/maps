@@ -1865,7 +1865,7 @@
     },
     "plot2281": {
       "title": "Участок 2281",
-      "status": "available",
+      "status": "sold",
       "area": 7.01,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2281",
@@ -3657,7 +3657,7 @@
     },
     "plot2511": {
       "title": "Участок 2511",
-      "status": "available",
+      "status": "sold",
       "area": 8.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2511",
@@ -4705,7 +4705,7 @@
     },
     "plot2797": {
       "title": "Участок 2797",
-      "status": "available",
+      "status": "sold",
       "area": 6.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2797",
@@ -5849,7 +5849,7 @@
     },
     "plot2940": {
       "title": "Участок 2940",
-      "status": "available",
+      "status": "sold",
       "area": 7.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2940",
@@ -5857,7 +5857,7 @@
     },
     "plot2941": {
       "title": "Участок 2941",
-      "status": "available",
+      "status": "reserved",
       "area": 7.0,
       "ownerGroup": "IGOR",
       "cadastralNumber": "39:03:080814:2941",
@@ -5985,7 +5985,7 @@
     },
     "plot2961": {
       "title": "Участок 2961",
-      "status": "available",
+      "status": "sold",
       "area": 5.98,
       "ownerGroup": "ANDROPOV",
       "cadastralNumber": "39:03:080814:2961",
@@ -6489,7 +6489,7 @@
     },
     "plot3024": {
       "title": "Участок 3024",
-      "status": "available",
+      "status": "sold",
       "area": 6.0,
       "ownerGroup": "ANDROPOV",
       "cadastralNumber": "39:03:080814:3024",
@@ -6937,7 +6937,7 @@
     },
     "plot3485": {
       "title": "Участок 3485",
-      "status": "available",
+      "status": "sold",
       "area": 6.0,
       "ownerGroup": "ANDROPOV",
       "cadastralNumber": "39:03:080814:3485",
