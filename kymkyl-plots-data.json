@@ -679,7 +679,7 @@
     "title": "Участок 14532",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14532. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14532&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -1390,7 +1390,7 @@
     "title": "Участок 14589",
     "area": "6",
     "price": "360000",
-    "status": "reserved",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14589. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14589&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
     "privateComment": ""
   },
@@ -2299,7 +2299,7 @@
     "title": "Участок 14493",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14493. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14493&type=parcel)",
     "privateComment": ""
   },
@@ -2317,7 +2317,7 @@
     "title": "Участок 14491",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "reserved",
     "description": "Кадастровый номер участка: 74:02:0511002:14491. Открыть участок в приложении [Кадастр РУ](https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14491&type=parcel)",
     "privateComment": ""
   },
