@@ -1462,18 +1462,18 @@
     "title": "Участок 14317",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14317. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14317&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": ""
+    "privateComment": "dronin 26/09"
   },
   "plot14340": {
     "id": "plot14340",
     "title": "Участок 14340",
     "area": "6",
     "price": "360000",
-    "status": "available",
+    "status": "sold",
     "description": "Кадастровый номер 74:02:0511002:14340. Открыть участок в приложении <a href=\"https://links.kadastrru.info/objects/find?cadnum=74%253A02%253A0511002%253A14340&type=parcel\" target=\"_blank\">Кадастр РУ</a>",
-    "privateComment": "ipoteka fev 2026"
+    "privateComment": "dronin 2609"
   },
   "plot14351": {
     "id": "plot14351",
