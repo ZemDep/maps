@@ -1161,7 +1161,7 @@
     },
     "plot1630": {
       "title": "Участок 1630",
-      "status": "reserved",
+      "status": "available",
       "area": 6.0,
       "price": 1800000,
       "ownerGroup": "SUR_ELTR",
