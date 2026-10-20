@@ -153,7 +153,7 @@
     },
     "plot1511": {
       "title": "Участок 1511",
-      "status": "reserved",
+      "status": "sold",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1511",
@@ -639,7 +639,7 @@
     },
     "plot1565": {
       "title": "Участок 1565",
-      "status": "reserved",
+      "status": "sold",
       "area": 7.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1565",
@@ -918,7 +918,7 @@
     },
     "plot1599": {
       "title": "Участок 1599",
-      "status": "available",
+      "status": "reserved",
       "area": 6.0,
       "ownerGroup": "SUR",
       "cadastralNumber": "47:23:0439002:1599",
